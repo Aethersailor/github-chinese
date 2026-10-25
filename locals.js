@@ -14050,6 +14050,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
 
         // 操作 /<user-name>/<repo-name>/actions
             "Workflows": "工作流程",
+            "Exclude": "排除",
             "Items will be filtered as you type": "输入时将自动筛选项目",
             "Auto-refresh": "自动刷新",
                 "Auto-refresh: Off": "自动刷新：关",
