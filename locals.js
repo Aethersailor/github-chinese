@@ -6010,6 +6010,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
                 "Notes": "备注",
 
             "Block options": "拉黑选项",
+            "Block settings": "拉黑设置",
             "For 1 day": "1 天",
             "For 3 days": "3 天",
             "For 7 days": "7 天",
