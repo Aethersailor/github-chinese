@@ -4554,6 +4554,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
 
                     // Spark
                         "Spark premium requests": "Spark 高级请求",
+                        "Spark AI credits": "Spark AI 额度",
 
             // 代码空间超限
             "You've used 90% of included services for GitHub Codespaces storage.": "您已使用 90% 代码空间存储。",
