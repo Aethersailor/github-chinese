@@ -19370,6 +19370,7 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
                     "Learn more about immutable subject claims.": "了解更多关于不可变主体声明的信息。",
                 "Default subject claim prefix": "默认主体声明前缀",
                     "Use this prefix when configuring trust policies in your cloud provider.": "在云提供商中配置信任策略时使用此前缀。",
+                "Save subject claim": "保存主体声明",
 
     },
     "regexp": [ // 正则翻译
