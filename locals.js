@@ -4477,6 +4477,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                     // 后 2 项正则
 
                     "Billable usage": "计费",
+                        "Total billable usage after subtracting discounts from consumed usage": "使用量扣除折扣后的总计费用量",
                         // 操作
                         "consumed usage": "使用",
                         "discounts": "减免",
