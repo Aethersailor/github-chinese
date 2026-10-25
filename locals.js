@@ -4906,6 +4906,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                 "To manage metered billing for this account through Microsoft Azure an Azure Subscription ID must be added to your account.": "通过 Microsoft Azure 管理此账户的计量计费，必须将 Azure 订阅 ID 添加到您的账户中。",
 
         // 支付历史 https://github.com/account/billing/history
+            "Amount": "金额",
             "Amounts shown in USD": "以美元显示的金额",
 
         // 其他账单 https://github.com/settings/billing/subscriptions
