@@ -4485,6 +4485,7 @@ I18N["zh-CN"]["settings/accessibility"] = { // 设置 - 无障碍
 I18N["zh-CN"]["settings/notifications"] = { // 设置 - 通知
     "static": { // 静态翻译
         ...I18N["zh-CN"]["settings-menu"]["static"],
+        "Email": "电子邮件",
 
         // Notification center 通知 https://github.com/settings/notifications
             "Default notifications email": "默认邮件通知设置",
