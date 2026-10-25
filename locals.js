@@ -6004,6 +6004,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
             "On repositories you haven't contributed to yet, we'll warn you when a user you've blocked has previously made contributions.": "在您还没有贡献的仓库里，当您拉黑的用户之前有贡献时，我们会警告您。",
             "All blocked users": "所有被拉黑的用户",
             "Currently blocked": "当前已拉黑的用户",
+                "Search by username, full name, or public email": "按用户名、全名或公开电子邮箱搜索",
 
             "Block options": "拉黑选项",
             "For 1 day": "1 天",
