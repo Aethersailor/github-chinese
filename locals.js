@@ -5436,6 +5436,7 @@ I18N["zh-CN"]["settings/emails"] = { // 设置 - 电子邮箱
         ...I18N["zh-CN"]["settings-menu"]["static"],
         "Connected to Google": "已关联 Google",
         "Disconnect from Google": "解除与 Google 的关联",
+        "Select email to become primary": "选择主电子邮箱",
 
         // Emails 电子邮箱 https://github.com/settings/emails
             // 黄框警告
