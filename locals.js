@@ -14183,8 +14183,8 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
                 "Filter by Branch": "按分支筛选",
                 "Find a branch": "查找分支",
                 "Default": "默认",
-            "Actor": "角色",
-                "Filter by Actor": "按角色筛选",
+            "Actor": "执行者",
+                "Filter by Actor": "按执行者筛选",
                 "Find a user": "查找用户",
 
             // 日志 右侧按钮
