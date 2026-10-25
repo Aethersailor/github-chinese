@@ -4620,6 +4620,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                 "Codespaces storage": "代码空间存储",
                 "Actions Windows": "操作 Windows",
                 "Actions Linux": "操作 Linux",
+                "Actions Linux ARM": "操作 Linux ARM",
                 "Actions macOS 3-core": "操作 macOS 三核",
                 "Codespaces compute 2-core": "代码空间 - 双核",
                 "Copilot Premium Request": "Copilot 高级请求",
