@@ -6016,6 +6016,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
                     "Select one or more reasons for blocking.": "请选择一项或多项拉黑原因。",
                     "Spam": "垃圾信息",
                     "Misconduct": "不当行为",
+                    "Harassment": "骚扰",
             "Close all content": "关闭所有内容",
             "For 1 day": "1 天",
             "For 3 days": "3 天",
