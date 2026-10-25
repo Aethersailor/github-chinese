@@ -6544,6 +6544,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
             "Plan upgrades are temporarily unavailable.": "计划升级暂时不可用。",
             "Upgrade your Copilot plan for higher usage limits, premium models, AI reviews and more.": "升级 Copilot 计划，获得更高的使用限额、高级模型、AI 审查等功能。",
+                "Upgrade plan": "升级计划",
             "Free responses reset": "免费响应额度将在",
             "Read more.": "了解更多。",
             "Read more": "了解更多",
