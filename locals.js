@@ -6551,6 +6551,10 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
             "Features": "功能",
                 "Evaluation models in Copilot auto model selection": "Copilot 自动模型选择中的评估模型",
+                    "If enabled, you may be served": "启用后，您可能会使用到",
+                    "evaluation models": "评估模型",
+                    "through": "，使用方式为",
+                    "Copilot Auto model selection": "Copilot 自动模型选择",
                 "Semantic indexing for Non-GitHub Repositories": "非 GitHub 仓库的语义索引",
                     "If enabled you can use": "启用后，您可以使用",
                     "to index your non-GitHub repositories in VSCode.": "在 VS Code 中为非 GitHub 仓库建立索引。",
