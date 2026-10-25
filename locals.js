@@ -19772,6 +19772,8 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
                     "Allowlist settings saved successfully!": "白名单设置保存成功！",
 
         "Policy": "策略",
+            "Allow automations": "允许自动化",
+                "When enabled, users with write access can create automations that automatically run agents on a schedule or in response to events like new issues or updated pull requests.": "启用后，具有写入权限的用户可以创建自动化，按计划或在新建议题、更新拉取请求等事件发生时自动运行智能体。",
             "Require approval for workflow runs": "要求审批工作流运行",
                 "When Copilot pushes changes, require approval from a maintainer with write access before Actions workflows are run.": "当 Copilot 推送更改时，要求具有写入权限的维护者批准后再运行 Actions 工作流。",
                 "When Copilot pushes changes, require approval from a maintainer with write access before Actions workflows are run. When this policy is disabled, Actions workflows run automatically when Copilot pushes, except when the push comes from an automation that requires approval.": "当 Copilot 推送更改时，要求具有写入权限的维护者批准后再运行 Actions 工作流。禁用此策略后，Copilot 推送时将自动运行 Actions 工作流，但推送来自需要批准的自动化时除外。",
