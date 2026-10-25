@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Switch to default": "切换到默认设置",
             "View CodeQL workflow": "查看 CodeQL 工作流",
             "Advanced setup": "高级设置",
             "Block pushes that contain": "阻止包含以下内容的推送：",
