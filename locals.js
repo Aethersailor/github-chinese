@@ -4599,6 +4599,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                                 "Select a start date from the grid.": "请从日历中选择开始日期。",
                                 "Select an end date from the grid.": "请从日历中选择结束日期。",
                                 "Start date": "开始日期",
+                                "End date": "结束日期",
                                 "Su": "日",
                                 "Mo": "一",
                                 "Tu": "二",
