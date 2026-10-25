@@ -6551,6 +6551,8 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
             "Features": "功能",
                 "Semantic indexing for Non-GitHub Repositories": "非 GitHub 仓库的语义索引",
+                    "If enabled you can use": "启用后，您可以使用",
+                    "to index your non-GitHub repositories in VSCode.": "在 VS Code 中为非 GitHub 仓库建立索引。",
                 "Copilot in the cloud": "云端 Copilot",
                     "Coming soon": "即将推出",
                     "Use Copilot on GitHub.com and GitHub Mobile. Start and continue secure cloud sessions across supported Copilot surfaces. This policy replaces the previous Copilot Chat in GitHub, Copilot Chat in GitHub Mobile, and Cloud Agent policies.": "在 GitHub.com 和 GitHub Mobile 上使用 Copilot，并在受支持的 Copilot 界面间启动和继续安全的云端会话。此策略取代此前的 GitHub 中的 Copilot Chat、GitHub Mobile 中的 Copilot Chat 和云端智能体策略。",
