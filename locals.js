@@ -19685,6 +19685,9 @@ I18N["zh-CN"]["repository/settings/copilot/code_review"] = {
                 "Copilot approvals can count toward merge requirements.": "Copilot 的批准可计入合并要求。",
 
         "Automated code reviews using rulesets": "使用规则集的自动代码审查",
+        "Automatic code review": "自动代码审查",
+            "Use rulesets to request a review when a pull request is opened, on each new push, or while it is still a draft.": "使用规则集，在创建拉取请求、每次推送新提交或拉取请求仍为草案时请求审查。",
+            "Learn more about automatic code review.": "了解更多关于自动代码审查的信息。",
             "Use rulesets to configure Copilot to review pull requests automatically.": "使用规则集配置 Copilot 以自动审查拉取请求。",
             "Learn how to set up rulesets.": "了解如何设置规则集。",
 
