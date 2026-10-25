@@ -19655,6 +19655,9 @@ I18N["zh-CN"]["repository/settings/copilot/code_review"] = {
                 "Go to repository rules": "前往仓库规则",
 
         "General settings": "常规设置",
+            "Allow Copilot to use MCP tools when reviewing pull requests": "允许 Copilot 在审查拉取请求时使用 MCP 工具",
+                "Copilot code review uses the tools from your": "Copilot 代码审查会使用您的",
+                "during reviews.": "中的工具进行审查。",
             "Review effort level": "审查力度",
                 "Controls the depth of analysis when Copilot reviews pull requests.": "控制 Copilot 审查拉取请求时的分析深度。",
                 "Default (Balanced)": "默认（均衡）",
