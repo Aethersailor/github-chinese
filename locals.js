@@ -340,6 +340,7 @@ I18N.conf = {
     // ^pre$ --> 避免勿过滤
 
     reactGlobalNavLabels: {
+        "Repository navigation": "仓库导航",
         "Overview": "概况",
         "Repositories": "仓库",
         "Code": "代码",
