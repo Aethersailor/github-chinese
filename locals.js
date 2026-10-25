@@ -6738,6 +6738,7 @@ I18N["zh-CN"]["orgs/settings/pages"] = I18N["zh-CN"]["settings/pages"];
 I18N["zh-CN"]["settings/replies"] = { // 设置 - 快捷回复
     "static": { // 静态翻译
         ...I18N["zh-CN"]["settings-menu"]["static"],
+        "Loading preview…": "载入预览…",
 
         // Saved replies 快捷回复 https://github.com/settings/replies
             "Saved replies are re-usable text snippets that you can use throughout GitHub comment fields. Saved replies can save you time if you’re often typing similar responses.": "快捷回复是可重复使用的文本片段，您可以在整个 GitHub 评论区使用。如果您经常输入类似的回复，快捷回复可以节省您的时间。",
