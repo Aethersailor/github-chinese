@@ -17978,6 +17978,7 @@ I18N["zh-CN"]["repository/settings"] = { // 仓库设置 - 通常 /<user-name>/<
             "Pull requests allow others to suggest changes to your repository.": "拉取请求允许其他人向您的代码仓库提出更改建议。",
             "Pull request permissions": "拉取请求权限",
             "Issue permissions": "议题权限",
+                "If restricted, issues will still be readable by everyone who can see this repository.": "即使设置了限制，所有能查看此仓库的人仍可阅读议题。",
                 "Creation allowed by:": "允许创建：",
                     "All users": "所有用户",
                     "Anyone can create a pull request": "任何人都可以创建拉取请求",
