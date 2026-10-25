@@ -6388,6 +6388,7 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
             "Search deleted packages": "搜索已删除的软件包",
             "Restore": "恢复",
                 "Are you absolutely sure?": "您完全确定吗？",
+                "This will restore the package": "这将恢复软件包",
 
     },
     "regexp": [ // 正则翻译
