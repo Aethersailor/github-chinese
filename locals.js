@@ -4450,6 +4450,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
 
                         "Included usage*": "包含用量*",
                             "Included premium requests": "包含高级请求",
+                            "Included Sandbox usage": "包含的 Sandbox 用量",
                             "Free usage**": "免费使用**",
                                 "100% off per month": "100%减免/每月",
 
