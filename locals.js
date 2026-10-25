@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Keep your dependencies secure and up-to-date with": "使用以下工具保持依赖项安全并及时更新：",
                 "Identify and understand your project's dependencies.": "识别并了解项目的依赖项。",
                 "Understand the packages this repository depends on and secure its": "了解此仓库依赖的软件包，并保护其",
                 "software supply chain": "软件供应链",
