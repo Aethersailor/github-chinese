@@ -19858,6 +19858,16 @@ I18N["zh-CN"]["repository/settings/suggestions"] = {
         ...I18N["zh-CN"]["repository-settings-menu"]["static"],
 
         "An agent analyzes incoming issues and recommends labels, priority, assignees, and other metadata.": "智能体分析新建议题，并推荐标签、优先级、受理人等元数据。",
+        "Automation level": "自动化级别",
+            "Set how much control the agent has to apply changes": "设置智能体应用更改的自主程度",
+            "Full control": "完全掌控",
+                "Every suggestion is held for your review. Nothing is applied automatically.": "所有建议均需您审查，不会自动应用任何更改。",
+            "Cautious": "谨慎",
+                "Only high confidence changes are applied automatically. Everything else is held for your review.": "仅自动应用高置信度的更改，其余均需您审查。",
+            "Balanced": "均衡",
+                "Routine, clear-cut changes are applied automatically. Anything with ambiguity is held for review.": "自动应用常规、明确的更改。存在歧义的更改均需审查。",
+            "Full automation": "完全自动化",
+                "Every change is applied automatically. The agent only holds a change back if it's flagged as uncertain.": "自动应用所有更改。智能体仅在更改被标记为不确定时将其暂缓。",
     },
 };
 
