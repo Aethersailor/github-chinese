@@ -10435,6 +10435,7 @@ I18N["zh-CN"]["repository/issues"] = { // 仓库 - 议题页面
 
         // 仓库 --> 议题 标签卡/<user-name>/<repo-name>/issues
         // /<user-name>/<repo-name>/labels/<label-name>
+            "Views": "视图",
             // 欢迎信息
             "Welcome to issues!": "欢迎关注议题！",
             "Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should": "议题用于跟踪待办事项、错误、功能请求等。创建议题后，它们将出现在可搜索和可筛选的列表中。要开始，您应该",
