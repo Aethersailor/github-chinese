@@ -4680,6 +4680,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                     "Additional credits": "附加额度",
                         "About Copilot AI credits": "关于 Copilot AI 额度",
                         "If enabled, your account will be billed for additional AI credits usage after your included credits have been exhausted.": "若启用此功能，在您的包含额度用尽后，额外 AI 额度使用量将另行计费。",
+                        "If enabled, your enterprise will be billed for additional AI credits usage after your included credits have been exhausted.": "若启用此功能，在包含额度用尽后，将向您的企业收取额外 AI 额度使用费。",
 
                     "Code Review model": "代码审查模型",
                     "Coding Agent model": "编程智能体模型",
