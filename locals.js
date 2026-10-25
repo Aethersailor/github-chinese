@@ -19359,6 +19359,8 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
 
         // OIDC 配置 /<user-name>/<repo-name>/settings/actions/oidc-configuration
             "OIDC configuration": "OIDC 配置",
+                "Customize claims included in the OIDC token.": "自定义 OIDC 令牌中包含的声明。",
+                "Learn more about OIDC tokens.": "了解更多关于 OIDC 令牌的信息。",
 
     },
     "regexp": [ // 正则翻译
