@@ -14050,6 +14050,13 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
 
         // 操作 /<user-name>/<repo-name>/actions
             "Workflows": "工作流程",
+            "Auto-refresh": "自动刷新",
+                "Auto-refresh: Off": "自动刷新：关",
+                "Every 10 seconds": "每 10 秒",
+                "Every 30 seconds": "每 30 秒",
+                "Every minute": "每分钟",
+                "Every 5 minutes": "每 5 分钟",
+                "Refresh now": "立即刷新",
             "Workflow runs": "工作流程运行",
             "Lockfile": "锁定文件",
             "Expand sidebar": "展开侧边栏",
@@ -14489,6 +14496,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
     },
     "regexp": [ // 正则翻译
         ...I18N["zh-CN"]["repository-public"]["regexp"],
+        [/^Auto-refresh: (\d+)(s|m)$/, (match, count, unit) => `自动刷新：${count} ${unit === "s" ? "秒" : "分钟"}`],
         [/Back to pull request (#\d+)/, "返回拉取请求 $1"],
         [/Workflow (.*) pinned./, "工作流程 $1 已置顶"],
         [/Workflow (.*) unpinned./, "工作流程 $1 已取消置顶"],
