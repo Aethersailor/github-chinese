@@ -4370,6 +4370,11 @@ I18N["zh-CN"]["settings/appearance"] = { // 设置 - 外观
 
             "Emoji skin tone preference": "表情符号肤色首选项",
             "Preferred default emoji skin tone": "默认的表情符号肤色",
+                "Light Skin Tone": "浅肤色",
+                "Medium-Light Skin Tone": "中浅肤色",
+                "Medium Skin Tone": "中等肤色",
+                "Medium-Dark Skin Tone": "中深肤色",
+                "Dark Skin Tone": "深肤色",
 
             "Tab size preference": "制表符首选项",
             "Choose the number of spaces a tab is equal to when rendering code": "在渲染代码时，选择一个制表符等于多少个空格",
