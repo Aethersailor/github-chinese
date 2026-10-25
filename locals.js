@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Continuously monitor this repository to prevent secret exposures and protect credentials. GitHub will always send alerts to partners for detected secrets in public repositories.": "持续监控此仓库，防止机密泄露并保护凭据。对于在公共仓库中检测到的机密，GitHub 始终会向合作伙伴发送警报。",
             "Agentic autofix": "智能体自动修复",
                 "Assign code scanning alerts to Copilot to create a fix and open a pull request. This feature consumes AI credits.": "将代码扫描警报分配给 Copilot，以创建修复并提交拉取请求。此功能会消耗 AI 点数。",
             "AI Scan": "AI 扫描",
