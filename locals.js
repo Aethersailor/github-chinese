@@ -19203,6 +19203,7 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
             "Actions policies": "Actions 策略",
             "Actions policy insights": "Actions 策略洞察",
                 "Filter rules insights": "筛选规则洞察",
+                "Creation date": "创建日期",
                 "No rule evaluations matched your search": "没有与您的搜索匹配的规则评估",
             "New policy": "新建策略",
             "Import a ruleset": "导入规则集",
