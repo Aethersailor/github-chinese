@@ -4278,6 +4278,7 @@ I18N["zh-CN"]["settings/admin"] = { // 设置 - 账户
                 "\".": "”。",
                 "Your username or email:": "您的用户名或电子邮箱：",
                 "To verify, type": "为了验证，请输入",
+                "exactly as it appears:": "，保持原样：",
                 "below:": "在下面：",
                 "Confirm your password:": "确认您的密码：",
                 "Cancel plan and delete this account": "取消计划并删除此账户",
