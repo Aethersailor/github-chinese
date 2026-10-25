@@ -6386,6 +6386,7 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
             "These are packages that have been previously deleted belonging to you. You can restore a package deleted within the last 30 days.": "这些是先前已删除的属于您的软件包。您可以恢复在过去 30 天内删除的包。",
             "These are packages that have been previously deleted belonging to this organization. You can restore a package deleted within the last 30 days.": "这些是先前已删除的属于您组织的软件包。您可以恢复在过去 30 天内删除的包。", // 组织设置
             "Search deleted packages": "搜索已删除的软件包",
+            "Restore": "恢复",
 
     },
     "regexp": [ // 正则翻译
