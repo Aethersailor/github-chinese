@@ -18350,6 +18350,7 @@ I18N["zh-CN"]["repository/settings/interaction_limits"] = { // 仓库设置 - �
             "Temporary interaction limits": "临时互动限制",
             "Temporary interaction restrictions": "临时互动限制",
             "Pull request limits": "拉取请求限制",
+                "Restrict how many pull requests users without write access can have open at one time and add specific users to a bypass list. These settings stay in effect until you change them.": "限制无写入权限的用户同时打开的拉取请求数量，并将指定用户添加到绕过列表。这些设置将一直生效，直到您更改它们。",
             "Temporarily restrict which external users can interact with your repository (comment, open issues, or create pull requests) for a configurable period of time.": "在配置的时间段内，可临时限制哪些外部用户与您的仓库互动（评论、打开议题或创建拉取请求）。",
             "This may be used to force a \"cool-down\" period during heated discussions or prevent unwanted interactions.": "可用于在激烈讨论期间，强制进入 “冷静” 期或防止不必要的互动。",
 
