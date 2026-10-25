@@ -17785,6 +17785,7 @@ I18N["zh-CN"]["repository-settings-menu"] = { // 仓库设置公共部分
                 "Collaborators and teams": "协作者和团队", // 组织仓库
                 "Team and member roles": "团队和成员职责",  // 组织仓库
                 "Moderation options": "节制选项",
+                "Moderation": "社区管理",
                     "Interaction limits": "互动限制",
                     "Code review limits": "代码审查限制",
 
