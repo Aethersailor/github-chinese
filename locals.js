@@ -17993,7 +17993,7 @@ I18N["zh-CN"]["repository/settings"] = { // 仓库设置 - 通常 /<user-name>/<
                 "Allow merge commits": "允许合并提交",
                     "Add all commits from the head branch to the base branch with a merge commit.": "使用合并提交将所有从头部分支的提交添加到基础分支。",
                         "Default commit message": "默认提交信息",
-                            "Presented when merging a pull request with merge.": "当合并拉取请求时时出现。",
+                            "Presented when merging a pull request with merge.": "以合并提交方式合并拉取请求时显示。",
                         "Default message": "默认信息",
                         "Pull request title": "拉取请求标题",
                         "Pull request title and commit details": "拉取请求标题和提交详情",
