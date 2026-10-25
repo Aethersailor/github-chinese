@@ -18030,7 +18030,7 @@ I18N["zh-CN"]["repository/settings"] = { // 仓库设置 - 通常 /<user-name>/<
             "When creating source code archives, you can choose to include files stored using Git LFS in the archive.": "创建源代码归档文件时，您可以选择将使用 Git LFS 存储的文件包含在其中。",
 
             "Include Git LFS objects in archives": "在归档文件中包含 Git LFS 对象",
-            "Git LFS usage in archives is billed at the same rate as usage with the client.": "归档中的 Git LFS 使用率与客户端的使用率相同。",
+            "Git LFS usage in archives is billed at the same rate as usage with the client.": "归档文件中的 Git LFS 用量按与客户端使用相同的费率计费。",
 
             "Pushes": "推送",
             "Limit how many branches and tags can be updated in a single push": "限制一次推送中可以更新多少个分支和标签",
