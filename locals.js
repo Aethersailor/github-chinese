@@ -4548,7 +4548,7 @@ I18N["zh-CN"]["settings/notifications"] = { // 设置 - 通知
                 "automatically receive notifications when a new vulnerability is found in one of your dependencies.": " 访问权限时，当您的某个依赖项中发现新的漏洞时，就会自动收到通知。",
 
             "Dependabot alerts: Email digest": "Dependabot 警报：电子邮件摘要",
-                "Email a regular summary of Dependabot alerts for up to 10 of your repositories.": "通过电子邮件发送最多 10 个仓库库的 Dependabot 警报定期摘要。",
+                "Email a regular summary of Dependabot alerts for up to 10 of your repositories.": "通过电子邮件发送最多 10 个仓库的 Dependabot 警报定期摘要。",
                 "Don't send": "不发送",
                 "Send weekly": "每周发送",
                 "Send daily": "每日发送",
