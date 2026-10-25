@@ -14163,6 +14163,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
                     "repository_dispatch": "仓库调度",
                     "dynamic": "动态",
             // 状态
+                "Status": "状态",
                 "Filter by Status": "按状态筛选",
                 "Completed": "已完成",
                 "Stale": "已过期",
