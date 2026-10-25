@@ -20281,6 +20281,8 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Agentic autofix": "智能体自动修复",
+                "Assign code scanning alerts to Copilot to create a fix and open a pull request. This feature consumes AI credits.": "将代码扫描警报分配给 Copilot，以创建修复并提交拉取请求。此功能会消耗 AI 点数。",
             "AI Scan": "AI 扫描",
             "AI Scan for pull requests": "拉取请求 AI 扫描",
                 "Generate security findings for non-CodeQL languages using AI.": "使用 AI 检测 CodeQL 不支持的语言中的安全问题。",
