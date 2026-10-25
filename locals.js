@@ -10037,6 +10037,7 @@ I18N["zh-CN"]["repository/milestone"] = I18N["zh-CN"]["repository/milestones"]; 
 I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请求页面公共部分
     "static": { // 静态翻译
         // pull 与 request 公共词条
+            "Status": "状态检查",
             "Feedback": "反馈",
                 "Hate it": "非常不喜欢",
                 "Not great": "不太好",
