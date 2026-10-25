@@ -54,7 +54,7 @@ I18N.conf = {
     rePagePathOrg: /^\/[^\/]+\/[^\/]+\/(repositories\/new|repositories|sponsoring|discussions|projects|packages|teams|new-team|people|outside-collaborators|pending_collaborators|dashboard|billing_managers\/new|invitations?|settings\/(profile|billing|roles|member_privileges|teams|import-export|blocked_users|interaction_limits|code_review_limits|moderators|repository-defaults|rules|codespaces|copilot|actions|hooks|discussions|packages|pages|projects|security_analysis|security|dependabot_rules|domains|secrets|variables|oauth_application_policy|installations|personal-access-token|reminders|sponsors-log|audit-log|deleted_repositories|applications\/new|applications|apps\/new|apps|publisher|policies\/repositories|custom-properties|issue-fields|sandboxes)|topics|domain\/new|audit-log\/event_settings|billing\/(history|plans)|policies\/applications)|^\/[^\/]+\/(enterprise_plan|sponsoring)/,
 
     // 特定页面，启用`字符数据`监测
-    characterDataPage: ['repository/new', 'repository/edit', 'new', 'new/import', 'orgs/repositories/new', 'repository/blob', 'repository/pull', 'marketplace', 'homepage', 'repository/issues', 'repository/commit', 'copilot', 'spark', 'repository/settings/rules', 'pulls', 'settings/billing'],
+    characterDataPage: ['repository/new', 'repository/edit', 'new', 'new/import', 'orgs/repositories/new', 'repository/blob', 'repository/pull', 'marketplace', 'homepage', 'repository/issues', 'repository/commit', 'copilot', 'spark', 'repository/settings/rules', 'pulls', 'settings/billing', 'settings/blocked_users'],
 
     // 特定页面，忽略突变元素规则
     ignoreMutationSelectorPage: {
@@ -6031,6 +6031,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
     "regexp": [ // 正则翻译
         [/^Block settings for (@[A-Za-z0-9-]+)$/, "$1 的拉黑设置"],
         [/^Note for (@[A-Za-z0-9-]+)$/, "$1 的备注"],
+        [/^(\d+) characters? remaining$/, "还可输入 $1 个字符"],
     ],
     "title": {
         "static": {
