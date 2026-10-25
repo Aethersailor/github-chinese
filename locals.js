@@ -5779,6 +5779,7 @@ I18N["zh-CN"]["settings/sessions"] = {
             "Revoke": "撤消",
             "Registered -": "注册于 -",
             "Last accessed -": "最后访问 -",
+            "Never accessed": "从未访问",
             "Last used for authentication -": "最后一次认证 -",
             "Never used": "未使用",
 
