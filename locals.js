@@ -5769,7 +5769,7 @@ I18N["zh-CN"]["settings/sessions"] = {
             "See more": "查看更多",
             "Your current session": "您当前的会话",
             "Last accessed on": "最后访问日期：",
-            "active": "激活",
+            "active": "活跃",
             "stale": "闲置",
 
             "GitHub Mobile sessions": "GitHub Mobile 会话",
