@@ -4541,6 +4541,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                         "Manage Copilot policy": "管理 Copilot 策略",
                     // 高级安全
                         "Advanced Security usage": "高级安全用量",
+                        "Total gross spend on GitHub Advanced Security AI credits for the selected timeframe.": "所选时间段内 GitHub 高级安全 AI 额度的总支出。",
 
                     // 模型
                         "About GitHub Models rate limits": "关于 GitHub 模型速率限制",
