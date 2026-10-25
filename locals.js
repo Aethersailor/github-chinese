@@ -19812,6 +19812,8 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
             "With MCP, you can extend the capabilities of": "借助 MCP，您可以扩展",
             "by connecting it to other tools and services. The": "的能力，将其连接到其他工具和服务。",
             "MCP servers are enabled by default.": "MCP 服务器默认启用。",
+            "You can configure your own MCP servers by adding JSON configuration below. MCP servers can optionally access secrets defined in the repository's": "您可以在下方添加 JSON 配置来配置自己的 MCP 服务器。MCP 服务器可选择访问仓库的",
+            "environment.": "环境中定义的机密。",
             "You can configure your own MCP servers by adding JSON configuration below. MCP servers can optionally access secrets defined in the repository's .copilot environment.": "您可以在下方添加 JSON 配置来配置自己的 MCP 服务器。MCP 服务器可选择访问仓库 .copilot 环境中定义的机密。",
             "You can configure your own MCP servers by adding JSON configuration below. MCP servers can optionally access secrets defined in the repository's .copilot environment. Learn more about configuring MCP servers.": "您可以在下方添加 JSON 配置来配置自己的 MCP 服务器。MCP 服务器可选择访问仓库 .copilot 环境中定义的机密。了解更多关于配置 MCP 服务器的信息。",
             "You can configure your own MCP servers by adding JSON configuration below. MCP servers can optionally access secrets defined in the repository's copilot environment.": "您可以在下方添加 JSON 配置来配置自己的 MCP 服务器。MCP 服务器可选择访问仓库 copilot 环境中定义的机密。",
