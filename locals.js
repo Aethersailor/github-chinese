@@ -5352,6 +5352,7 @@ I18N["zh-CN"]["settings/education/benefits"] = {  // 设置 - 账单和计划（
                 "You have not submitted an application for education benefits.": "没有申请",
 
                 "Education Benefits Application": "教育福利申请",
+                    "Gathering available school information...": "正在获取可用的学校信息…",
                     "Select your role in education: *": "选择您的角色：*",
                         "Teacher": "教师",
                         "Student": "学生",
