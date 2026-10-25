@@ -19644,6 +19644,7 @@ I18N["zh-CN"]["repository/settings/copilot/code_review"] = {
         ...I18N["zh-CN"]["orgs-settings-menu"]["static"],
 
         // 代码审查
+            "Copilot code review": "Copilot 代码审查",
             "Enable automatic code review": "启用自动代码审查",
                 "You can enable Copilot to automatically review pull requests by enabling it inside Repository rules.": "您可以在仓库规则中启用 Copilot，从而让 Copilot 自动审查拉取请求。",
                 "Learn more about automatic code reviews.": "就自动代码审查了解更多信息。",
