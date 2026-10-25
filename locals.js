@@ -30533,6 +30533,8 @@ I18N["zh-CN"]["repository/agents"] = {
         // 任务列表
         "Sessions": "智能体任务",
             "Filter sessions": "筛选任务",
+            "Type": "类型",
+                "Cloud agents": "云端智能体",
             "Status": "状态",
                 "Working": "工作中",
                 "Queued": "排队中",
