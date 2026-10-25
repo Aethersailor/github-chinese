@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Automatically open pull requests for alerts with a patch. For advanced configuration, disable this setting and use": "针对有补丁可用的警报自动创建拉取请求。如需高级配置，请禁用此设置并使用",
             "Dependabot auto-triage rules": "Dependabot 自动分类规则",
                 "Define rules for security updates and auto-dismissals on Dependabot alerts.": "定义 Dependabot 警报的安全更新和自动解除规则。",
             "Malware alerts": "恶意软件警报",
