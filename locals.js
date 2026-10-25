@@ -6630,6 +6630,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
             "With Coding agent, you can delegate tasks to Copilot, freeing you to focus on the creative, complex, and high-impact work that matters most. Simply assign an issue to Copilot, wait for the agent to request your review, then leave feedback on the pull request to iterate.": "使用编程智能体，您可以将任务委派给 Copilot，从而让您专注于最具创造性的、复杂且影响深远的工作。只需将问题分配给 Copilot，等待智能体请求您审查，然后在拉取请求中留言反馈以供迭代。",
             "With Copilot cloud agent, you can delegate tasks to Copilot, freeing you to focus on the creative, complex, and high-impact work that matters most. Simply assign an issue to Copilot, wait for the agent to request your review, then leave feedback on the pull request to iterate.": "使用 Copilot 云端智能体，您可以将任务委托给 Copilot，从而专注于最具创造性、复杂性和高影响力的重要工作。只需将议题分配给 Copilot，等待智能体请求您审查，然后在拉取请求中留下反馈以继续迭代。",
+            "From researching a repository to reviewing and merging a pull request, Copilot works in a secure, isolated cloud environment. Delegate work to an agent, freeing you to focus on the creative, complex, and high-impact work that matters most.": "从研究仓库到审查和合并拉取请求，Copilot 都在安全、隔离的云端环境中工作。将工作委托给智能体，让您腾出精力，专注于最重要的创造性、复杂且影响重大的工作。",
                 "Learn more in the docs.": "详情",
 
             "Repository access": "仓库访问",
