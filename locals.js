@@ -3681,6 +3681,7 @@ I18N["zh-CN"]["payment-module"] = { // 通用账单及支付信息模块
         "Payment method": "支付方式",
         "Payment Method": "支付方式",
             "You have not added a payment method.": "您尚未添加支付方式。",
+            "Prepaid debit and credit cards are not accepted as a valid form of payment.": "不接受预付借记卡和预付信用卡作为有效支付方式。",
 
         "Payment information": "支付信息",
             "Pay with": "支付方式：",
