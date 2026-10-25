@@ -6856,7 +6856,7 @@ I18N["zh-CN"]["settings/security_analysis"] = { // 设置 - 代码安全性与�
                             "You're about to disable Dependabot security updates on all your repositories.": "您即将禁用您所有仓库上的 Dependabot 安全更新。",
 
                 "Grouped security updates": "分组安全更新",
-                    "Groups all available updates that resolve a Dependabot alert into one pull request (per package manager and directory of requirement manifests). This option may be overridden by group rules specified in dependabot.yml -": "将解决可靠警报的所有可用更新分组为一个拉取请求（每个包管理器和需求清单目录）。此选项可能会被 dependentabot.yml 中指定的分组规则覆盖 -",
+                    "Groups all available updates that resolve a Dependabot alert into one pull request (per package manager and directory of requirement manifests). This option may be overridden by group rules specified in dependabot.yml -": "将解决 Dependabot 警报的所有可用更新分组到一个拉取请求中（按包管理器和依赖清单目录分别分组）。此选项可能会被 dependabot.yml 中指定的分组规则覆盖 -",
                     "Learn how to group updates.": "了解如何配置分组更新",
 
                     // 对话框
