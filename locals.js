@@ -13498,6 +13498,7 @@ I18N["zh-CN"]["repository/discussions"] = { // 讨论页面
             "Last 30 days": "最近 30 天",
             "Community guidelines": "社区指南",
             "Community insights": "社区见解",
+            "Community links": "社区链接",
 
             //
             "Sort by:": "排序方式：",
