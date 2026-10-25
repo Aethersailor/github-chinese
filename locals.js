@@ -8002,6 +8002,7 @@ I18N["zh-CN"]["settings/personal-access-tokens"] = { // 设置 - 开发者设置
 
             "Never used •": "从未使用过 •",
             "Last used within the last week": "最后一次使用是最近 1 周之内",
+            "Last used within the last week •": "最后一次使用是最近 1 周之内 •",
             // [/Last used within/, "最后一次使用是"],
 
             "Loading expiration ...": "载入有效期 …",
