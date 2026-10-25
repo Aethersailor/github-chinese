@@ -20468,7 +20468,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
                     //     "limitations of autofix code suggestions for third party tools": "第三方工具自动修复代码建议的限制",
 
                 "Protection rules": "保护规则",
-                    "Check runs failure threshold": "检查运行失败阀值",
+                    "Check runs failure threshold": "检查运行失败阈值",
                         "Select the alert severity level for code scanning check runs to fail.": "选择代码扫描检查运行失败的警报严重性级别。",
                         "Create a branch ruleset": "创建分支规则集",
                         "to prevent a branch from merging when these checks fail.": "以防止分支在这些检查失败时被合并。",
