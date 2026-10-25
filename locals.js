@@ -10090,6 +10090,7 @@ I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请
             "Label": "标签",
                 "Filter by label": "按标签筛选",
                 "Filter labels": "筛选标签",
+                "Filter by labels": "按标签筛选",
                 "Unlabeled": "无标签",
                 "to exclude labels": "排除标签",
                 "for logical OR": "表示逻辑“或”",
