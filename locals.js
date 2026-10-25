@@ -4694,6 +4694,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                 "Included usage alerts:": "包含用量警报：",
                     "Turn on included usage email alerts": "开启包含用量电子邮件警报",
                     "Turn off included usage email alerts": "关闭包含用量电子邮件警报",
+                        "This includes Actions, Git LFS, Packages, and Sandbox": "包括 Actions、Git LFS、软件包和 Sandbox",
                 "New budget": "新建",
                 // "On": "开",
                 // "Off": "关",
