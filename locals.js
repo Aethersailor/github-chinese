@@ -13499,6 +13499,7 @@ I18N["zh-CN"]["repository/discussions"] = { // 讨论页面
             "Community guidelines": "社区指南",
             "Community insights": "社区见解",
             "Community links": "社区链接",
+            "Categories, most helpful, and community links": "分类、最有帮助和社区链接",
 
             //
             "Sort by:": "排序方式：",
