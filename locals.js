@@ -4705,6 +4705,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                 "Stop usage": "停止使用",
                 "Yes": "是",
                 "spent": "支出",
+                "Spent": "已支出",
                 "budget": "预算",
             "Budgets let you set monthly usage limits for specific GitHub products or SKUs. If no budget is set, usage for that product is unlimited.":"预算允许您为特定的 GitHub 产品或 SKU 设置每月使用限制。如果未设置预算，该产品的使用量将不受限制。",
             "Product":"产品类型",
