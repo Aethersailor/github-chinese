@@ -6635,6 +6635,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
             "Repository access": "仓库访问",
                 "Your repositories": "您的仓库",
+                "Selected repositories...": "选定的仓库…",
                 "Choose which repositories Copilot in the cloud should be enabled in. Cloud will only be an environment option where it is enabled for the repository and in the Copilot license policies.": "选择要启用云端 Copilot 的仓库。只有在仓库和 Copilot 许可策略中均启用后，云端才会作为可选环境出现。",
                 "Choose which repositories Coding agent should be enabled in. Coding agent will only be available where it is enabled for the repository and in the Copilot license policies.": "选择要启用编程智能体的仓库。编程智能体仅在为该仓库启用并符合 Copilot 许可证政策的情况下可用。",
                 "Choose which repositories Copilot cloud agent should be enabled in. Copilot cloud agent will only be available where it is enabled for the repository and in the Copilot license policies.": "选择要启用 Copilot 云端智能体的仓库。Copilot 云端智能体仅在为该仓库启用并符合 Copilot 许可证政策的情况下可用。",
