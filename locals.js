@@ -18196,7 +18196,7 @@ I18N["zh-CN"]["repository/settings"] = { // 仓库设置 - 通常 /<user-name>/<
         [/is available./, "名称可用。"],
         [/Make ([^ ]+) private/, "将 $1 设为私有"],
         [/Make ([^ ]+) public/, "将 $1 设为公开"],
-        [/(\d+) stars?/, "$1 位星标者"],
+        [/([\d,.]+[kKmM]?) stars?/, "$1 位星标者"],
         [/(\d+) watchers?/, "$1 位关注者"],
         [/To confirm, type \"([^ ]+)\" in the box below/, "要确认，请在下面的方框中输入 \"$1\""],
         [/Your repository \"([^ ]+)\" was successfully archived./, "您的仓库 “$1” 已成功存档。"], //仓库存档
