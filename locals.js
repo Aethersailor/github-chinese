@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Advanced setup": "高级设置",
             "Block pushes that contain": "阻止包含以下内容的推送：",
             "Continuously monitor this repository to prevent secret exposures and protect credentials. GitHub will always send alerts to partners for detected secrets in public repositories.": "持续监控此仓库，防止机密泄露并保护凭据。对于在公共仓库中检测到的机密，GitHub 始终会向合作伙伴发送警报。",
             "Agentic autofix": "智能体自动修复",
