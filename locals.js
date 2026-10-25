@@ -4282,6 +4282,7 @@ I18N["zh-CN"]["settings/admin"] = { // 设置 - 账户
                 "below:": "在下面：",
                 "Confirm your password:": "确认您的密码：",
                 "Cancel plan and delete this account": "取消计划并删除此账户",
+                "You'll be prompted to verify your identity before account deletion.": "删除账户前，系统会要求您验证身份。",
 
     },
     "regexp": [ // 正则翻译
