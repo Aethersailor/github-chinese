@@ -4596,6 +4596,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                             "Up to 1 year": "最长 1 年",
                             "Up to 31 days": "最长 31 天",
                             "Choose date...": "选择日期…",
+                                "Select a start date from the grid.": "请从日历中选择开始日期。",
                                 "Su": "日",
                                 "Mo": "一",
                                 "Tu": "二",
