@@ -17790,6 +17790,7 @@ I18N["zh-CN"]["repository-settings-menu"] = { // 仓库设置公共部分
                     "Code review limits": "代码审查限制",
 
             "Code and automation": "代码与自动化",
+            "Code, planning, and automation": "代码、规划和自动化",
                 "Branches": "分支",
                 "Tags": "标签",
                 "Rules": "规则",
