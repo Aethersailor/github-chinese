@@ -7264,6 +7264,7 @@ I18N["zh-CN"]["settings/security-log"] = { // 设置 - 安全日志
             "Enabled GitHub Actions for": "启用仓库操作：",
             "Created a secret for": "创建机密：",
             "Created a token for": "创建令牌：",
+            "Updated a token for": "为以下用户更新了令牌：",
             "Regenerated a token for": "重新生成令牌：",
             "Revoked a token for": "撤销令牌：",
                 "ending in": "，尾号",
