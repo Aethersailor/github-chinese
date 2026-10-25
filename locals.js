@@ -17799,6 +17799,7 @@ I18N["zh-CN"]["repository-settings-menu"] = { // 仓库设置公共部分
                     // "General": "通常",
                     "Runners": "运行器",
                     "Policies": "策略",
+                    "Policy insights": "策略洞察",
                 "Models": "模型",
                 "Webhooks": "Web 钩子",
                 // Copilot
