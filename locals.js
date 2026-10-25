@@ -4742,6 +4742,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
             "Next: Configure budget": "下一步：配置预算",
 
             "All Premium Request SKUs":"所有高级请求 SKU",
+            "All AI Credit SKUs": "所有 AI 额度 SKU",
             "A budget for all SKUs that consume premium requests":"所有消耗高级请求的 SKU 的预算",
             "Supported SKUs:":"支持的 SKUs：",
                 "Coding Agent premium requests":"Coding Agent 高级请求",
