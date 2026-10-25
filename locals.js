@@ -4601,6 +4601,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                 "Copilot premium requests usage report": "Copilot 高级请求",
                     "Provides a per user breakdown of requests exhausted and their monthly quota for the current billing period.": "提供每个用户的请求耗尽情况及其当前计费周期的月度配额。",
             "Search or filter usage": "搜索或筛选使用情况",
+            "Search or filter usage (chart updates as you type)": "搜索或筛选使用情况（输入时更新图表）",
 
             //"Group: None": "分组：无",
             //"Group: Product": "分组：产品",
