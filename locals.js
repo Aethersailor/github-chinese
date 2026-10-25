@@ -4670,6 +4670,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                     "About Additional Usage": "关于附加用量",
                     "Edit budget": "编辑预算",
                     "Not enabled": "未启用",
+                "Days": "天",
                 "Model": "模型",
                     "Model usage": "模型用量",
                         "Overage": "超额",
