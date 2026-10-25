@@ -6029,6 +6029,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
 
     },
     "regexp": [ // 正则翻译
+        [/^Block settings for (@[A-Za-z0-9-]+)$/, "$1 的拉黑设置"],
     ],
     "title": {
         "static": {
