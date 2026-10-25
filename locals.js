@@ -3760,6 +3760,7 @@ I18N["zh-CN"]["settings-menu"] = { // 设置 - 公共部分
             "Copilot": "GitHub Copilot",
                 "Features": "功能",
                 "Coding agent": "编程智能体",
+                "Cloud": "云端",
             "Pages": "GitHub Pages",
             "Saved replies": "快捷回复",
 
