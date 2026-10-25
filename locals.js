@@ -14050,6 +14050,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
 
         // 操作 /<user-name>/<repo-name>/actions
             "Workflows": "工作流程",
+            "Lockfile": "锁定文件",
             "Expand sidebar": "展开侧边栏",
             "Collapse sidebar": "折叠侧边栏",
             // 快捷键
