@@ -5341,6 +5341,7 @@ I18N["zh-CN"]["settings/education/benefits"] = {  // 设置 - 账单和计划（
         "GitHub Education": "GitHub 教育",
 
         "Free GitHub developer resources for students and teachers": "为学生和教师提供免费的 GitHub 开发者资源",
+            "Get Copilot for free, 180 monthly Codespaces hours for cloud coding, unlimited private repositories with GitHub Pro or Team, and dozens of premium tools in the Student Developer Pack.": "免费使用 Copilot，获取每月 180 小时的代码空间云端编码时长、GitHub Pro 或 Team 提供的无限私有仓库，以及学生开发者礼包中的数十款高级工具。",
 
         "Education Benefits": "教育福利",
             "Complete a teacher or student application to unlock tools and resources for your educational journey.": "完成教师或学生申请，解锁教育旅程所需的工具和资源。",
