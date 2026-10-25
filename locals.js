@@ -4471,6 +4471,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
             "Metered usage": "计费用量",
                 "Usage by products": "按产品分类", // 省略重复内容
                 "Products selector navigation": "产品选择器导航",
+                "items": "项",
                 // 时间段，这部分走正则
                     "Today": "今天",
                     "Current month": "这个月",
