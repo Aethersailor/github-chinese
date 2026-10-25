@@ -6399,6 +6399,7 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
             return `删除于 ${translatedDate}`;
         }],
         [/No recoverable packages were found for ([^ ]+)./, "没有找到 $1 的可恢复包。"],
+        [/^(\d+) versions?$/, "$1 个版本"],
         ...I18N["zh-CN"]["orgs-public"]["regexp"],
     ],
     "title": {
