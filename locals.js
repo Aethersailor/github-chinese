@@ -6536,6 +6536,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
             // 使用情况
             "Included usage": "套内用量",
+            "Inline suggestions": "行内建议",
                 "AI credits included with your plan, reset monthly. Enable additional usage to continue with pay-as-you-go credits once you run out of your included usage.": "AI 额度包含在您的计划中，每月重置。一旦用套内用量，可以启用超套用量以继续使用按需付费的额度。",
                 "No usage yet": "尚未使用",
             "Additional usage": "超套用量",
