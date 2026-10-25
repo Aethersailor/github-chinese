@@ -13577,7 +13577,7 @@ I18N["zh-CN"]["repository/discussions"] = { // 讨论页面
             "Categories without section": "无栏目分类",
             "Announcements": "公告",
                 "Updates from maintainers": "维护者的更新信息",
-            "General": "通常",
+            "General": "常规",
                 "Chat about anything and everything here": "在这里谈论任何事情",
             "Ideas": "想法",
                 "Share ideas for new features": "分享对新功能的想法",
