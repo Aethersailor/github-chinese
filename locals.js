@@ -4266,7 +4266,7 @@ I18N["zh-CN"]["settings/admin"] = { // 设置 - 账户
             "to a": "为",
             "FREE": "免费",
             "account? We won’t charge your credit card anymore.": "账户吗？我们不会再向您信用卡账户扣款。",
-            "account? We won’t charge your payment information anymore.": "账户吗？我们不会再向您支付账户扣款。",
+            "account? We won’t charge your payment information anymore.": "账户吗？我们不会再通过您的付款方式扣款。",
             "account? We won’t charge your PayPal account anymore.": "账户吗？我们将不再向您 PayPal 账户扣款。",
                 "Are you sure you want to do this?": "您确定要这么做吗？",
                 "This is extremely important.": "这是极其重要的。",
