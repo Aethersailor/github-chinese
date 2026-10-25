@@ -18026,10 +18026,10 @@ I18N["zh-CN"]["repository/settings"] = { // 仓库设置 - 通常 /<user-name>/<
                     "Automatically delete head branches": "自动删除头部分支",
                         "Deleted branches will still be able to be restored.": "删除的分支仍然可以恢复。",
 
-            "Archives": "档案",
-            "When creating source code archives, you can choose to include files stored using Git LFS in the archive.": "创建源代码存档时，您可以选择在存档中包含使用 Git LFS 存储的文件。",
+            "Archives": "归档文件",
+            "When creating source code archives, you can choose to include files stored using Git LFS in the archive.": "创建源代码归档文件时，您可以选择将使用 Git LFS 存储的文件包含在其中。",
 
-            "Include Git LFS objects in archives": "在档案中包含 Git LFS 对象",
+            "Include Git LFS objects in archives": "在归档文件中包含 Git LFS 对象",
             "Git LFS usage in archives is billed at the same rate as usage with the client.": "归档中的 Git LFS 使用率与客户端的使用率相同。",
 
             "Pushes": "推送",
