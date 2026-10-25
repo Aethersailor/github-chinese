@@ -19804,6 +19804,7 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
 
         "Model Context Protocol (MCP)": "模型上下文协议（MCP）",
             "Supported agents": "支持的智能体",
+            "With MCP, you can extend the capabilities of Copilot in the cloud and Copilot code review by connecting them to other tools and services. The": "借助 MCP，您可以将云端 Copilot 和 Copilot 代码审查连接到其他工具和服务，从而扩展它们的能力。",
                 "This MCP configuration applies to Copilot in the cloud and Copilot code review. IDEs and Copilot CLI use their own MCP configuration.": "此 MCP 配置适用于云端 Copilot 和 Copilot 代码审查。IDE 和 Copilot CLI 使用各自的 MCP 配置。",
             "The MCP is an open standard that defines how applications share context with large language models (LLMs). MCP provides a standardized way to connect AI models to different data sources and tools, enabling them to work together more effectively.": "MCP 是一个开放标准，定义了应用程序如何与大型语言模型（LLM）共享上下文。MCP 提供了一种标准化的方法，将 AI 模型与不同的数据源和工具连接起来，使它们能够更高效地协同工作。",
             "With MCP, you can extend the capabilities of Copilot cloud agent by connecting it to other tools and services. The GitHub and Playwright MCP servers are enabled by default.": "借助 MCP，您可以将 Copilot 云端智能体连接到其他工具和服务，从而扩展其能力。GitHub 和 Playwright MCP 服务器默认启用。",
