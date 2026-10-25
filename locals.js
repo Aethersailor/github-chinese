@@ -6439,6 +6439,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
             "Member": "成员",
 
             "Getting started": "开始使用",
+                "More editors": "更多编辑器",
                 "complete": "完成",
                 "Remove section":"移除区域",
             "Install Copilot in your editor": "在您的编辑器中安装 Copilot",
