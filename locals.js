@@ -6550,6 +6550,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
             "Read more": "了解更多",
 
             "Features": "功能",
+                "Copilot in the cloud": "云端 Copilot",
                 // "Copilot in github.com": "在 github.com 中使用 Copilot",
                     //"You can use Copilot Chat in Github.com, Copilot for pull requests, and all of the preview features.": "您可以在 Github.com 中使用 Copilot Chat，也可以使用 Copilot 拉取请求和所有预览功能。",
                     "You can use Copilot Chat in GitHub.com, Copilot for pull requests, and all of the preview features.": "您可以在 GitHub.com 中使用 Copilot Chat，Copilot 拉取请求和所有预览功能。",
