@@ -16673,6 +16673,7 @@ I18N["zh-CN"]["repository/security"] = { // 仓库 - 安全页面
     },
     "regexp": [ // 正则翻译
         ...I18N["zh-CN"]["repository-public"]["regexp"],
+        [/^Security: ([^\s/]+\/[^\s/]+)$/, "安全：$1"],
         [/([\d,]+) Triages?/, "$1 分类"],
         [/([\d,]+) Draft/, "$1 草案"],
         [/([\d,]+) Published/, "$1 发布"],
