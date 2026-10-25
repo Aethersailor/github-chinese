@@ -14049,6 +14049,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
             // [/Found (\d+) workflows?/, "发现 $1 个工作流程"],
 
         // 操作 /<user-name>/<repo-name>/actions
+            "Workflows": "工作流程",
             // 快捷键
                 "Go to usage": "跳转到运用",
                 "Go to workflow file": "跳转到工作流程文件", // /actions/runs/<id>
