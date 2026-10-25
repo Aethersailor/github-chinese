@@ -10728,6 +10728,8 @@ I18N["zh-CN"]["repository/issues"] = { // 仓库 - 议题页面
                     "Between 10 and 100": "10 到 100",
                 "Interactions count": "互动数",
                     "Has interactions count": "有互动数",
+                "No suggestions": "无建议",
+                "Has suggestions": "有建议",
                 "Closed reason": "关闭原因",
                     "Exclude reason": "排除原因",
                     "Completed": "已完成",
