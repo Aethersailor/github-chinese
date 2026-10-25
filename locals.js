@@ -7921,6 +7921,7 @@ I18N["zh-CN"]["orgs/settings/apps/new"] = I18N["zh-CN"]["settings/apps"];
 
 I18N["zh-CN"]["settings/developers"] = { // 设置 - 开发者设置/OAuth 应用
     "static": { // 静态翻译
+        "New OAuth app": "新建 OAuth 应用",
             "Developer Settings": "开发者设置",
             "GitHub Apps": "GitHub 应用",
             "OAuth Apps": "OAuth 应用",
