@@ -14160,6 +14160,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
                     "schedule": "日程",
                     "watch": "关注",
                     "workflow_dispatch": "工作流程调度",
+                    "workflow_run": "工作流程运行",
                     "repository_dispatch": "仓库调度",
                     "dynamic": "动态",
             // 状态
