@@ -30558,5 +30558,9 @@ I18N["zh-CN"]["repository/agents"] = {
 
         "Customize environment": "自定义环境",
         "Configure": "自定义配置",
+        "Hate it": "非常不喜欢",
+        "Not great": "不太好",
+        "It's ok": "还可以",
+        "Love it": "非常喜欢",
     },
 };
