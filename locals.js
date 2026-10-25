@@ -19695,6 +19695,7 @@ I18N["zh-CN"]["repository/settings/copilot/code_review"] = {
         "No rulesets set up for automated reviews": "尚无设置自动代码审查的规则集",
         "No rulesets": "暂无规则集",
         "View all rulesets": "查看所有规则集",
+        "Automate Copilot code reviews": "自动执行 Copilot 代码审查",
         "Create a ruleset to automate code reviews for pull requests targeting your default branch": "就针对您的默认分支的拉取请求，创建规则集以自动化代码审查",
         "Create ruleset for default branch": "创建针对默认分支的规则集",
     },
