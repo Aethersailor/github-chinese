@@ -19200,6 +19200,7 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
 
         // 操作页面 /<user-name>/<repo-name>/settings/actions
             "Actions permissions": "操作权限",
+            "Actions policies": "Actions 策略",
                 "This setting has been disabled by organization administrators.": "此设置已被组织管理员禁用。", // 组织仓库
                 "Allow all actions and reusable workflows": "允许所有操作和可复用的工作流程",
                     "Any action or reusable workflow can be used, regardless of who authored it or where it is defined.": "可以使用任何操作或可复用的工作流程，而不管它是谁创作的或在哪里定义的。",
