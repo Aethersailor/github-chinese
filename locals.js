@@ -19217,6 +19217,8 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
                 "Allow or block specified actions and reusable workflows": "允许或阻止指定的操作和可复用工作流程",
                 "Enter a comma-separated list of actions and reusable workflows": "输入以逗号分隔的操作和可复用的工作流程列表",
                 "Wildcards, tags, and SHAs are allowed.": "允许使用通配符、标签和 SHA。",
+                "Wildcards, tags, and SHAs are allowed. Use": "支持通配符、标签和 SHA。使用",
+                "prefix to block.": "前缀可阻止匹配项。",
                 "Action examples:": "操作示例：",
                 "Reusable workflow examples:": "可复用的工作流程示例：",
                 "Entire organization or repository examples:": "整个组织或仓库的示例：",
