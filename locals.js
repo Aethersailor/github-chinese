@@ -13484,6 +13484,7 @@ I18N["zh-CN"]["repository/discussions"] = { // 讨论页面
             // 左侧栏
             "Submit search": "提交搜索",
             "Search all discussions": "搜索所有讨论",
+            "Clear": "清除",
             "Suggested filters": "推荐的筛选器",
             "filter by discussion author": "按讨论作者筛选",
             "filter by discussion category": "按讨论分类筛选",
