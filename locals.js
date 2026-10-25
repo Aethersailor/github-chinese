@@ -11352,6 +11352,8 @@ I18N["zh-CN"]["repository/pulls"] = { // 仓库 - 拉取请求页面
         ...I18N["zh-CN"]["repository-public"]["regexp"],
         ...I18N["zh-CN"]["repository/pull_issue_public"]["regexp"],
 
+        [/^of ([\d,]+) selected$/, "/ $1 已选"],
+        [/^([\d,]+) pull requests? of ([\d,]+) selected$/, "已选择 $1 / $2 个拉取请求"],
         [/(\d+) reviews? requesting changes?/, "$1 个请求审查更改"],
         [/(\d+) linked issues?/, "链接 $1 个议题"],
         [/([\d,]+) Open/, "$1 打开"],
