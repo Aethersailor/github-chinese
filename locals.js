@@ -1839,6 +1839,7 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
 
     },
     "regexp": [ // 正则翻译
+        [/^Settings: ([^\s/]+\/[^\s/]+)$/, "设置：$1"],
         // Copilot 窗口
         [/Chatting about ([^ ]+)/, "关于 $1 的对话"],
         [/Chatting with (\d+) attachments?/, "附加 $1 个附件"],
