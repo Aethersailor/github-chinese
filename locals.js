@@ -17807,6 +17807,7 @@ I18N["zh-CN"]["repository-settings-menu"] = { // 仓库设置公共部分
                     "Coding agent": "编程智能体",
                     "Cloud": "云端",
                     "Internet access": "访问互联网",
+                    "MCP servers": "MCP 服务器",
                 "Environments": "环境",
                 "Pages": "GitHub Pages",
                 "Custom properties": "自定义属性",  // 组织仓库
