@@ -19363,6 +19363,8 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
                 "Learn more about OIDC tokens.": "了解更多关于 OIDC 令牌的信息。",
             "Subject claim": "主体声明",
                 "Customize the subject (sub) claim in the OIDC token, used to identify the workflow run context.": "自定义 OIDC 令牌中的主体（sub）声明，用于标识工作流运行上下文。",
+                "Use default template": "使用默认模板",
+                    "When selected, use upstream template for the subject claim. Unselect to set a custom template.": "选中时，主体声明使用上游模板。取消选中可设置自定义模板。",
 
     },
     "regexp": [ // 正则翻译
