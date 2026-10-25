@@ -4424,7 +4424,7 @@ I18N["zh-CN"]["settings/accessibility"] = { // 设置 - 无障碍
                 "Autoplay animated images": "自动播放动态图片",
                     "Select whether animated images should play automatically.": "选择是否需要自动播放动态图片。",
                 "Sync with system": "与系统同步",
-                    "Adopts your system preference for reduced motion": "采用您的系统偏好以减少运动",
+                    "Adopts your system preference for reduced motion": "遵循系统的减少动态效果偏好设置",
                 "Enabled": "启用",
                     "Automatically plays animated images": "自动播放动态图片",
                 // 禁用
