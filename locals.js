@@ -10480,7 +10480,7 @@ I18N["zh-CN"]["repository/issues"] = { // 仓库 - 议题页面
                     "Eyes": "关注",
                     "Heart": "比心",
                     "Laugh": "大笑",
-                    "Confused": "拒绝",
+                    "Confused": "困惑",
                     "Ascending": "递增",
                     "Descending": "递减",
 
