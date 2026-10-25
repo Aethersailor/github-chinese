@@ -6644,6 +6644,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
     },
     "regexp": [ // 正则翻译
+        [/^(\d+(?:\.\d+)?)% used$/, "已使用 $1%"],
         [/Outside collaborator on (\d+) repositor(y|ies)/, "$1 个仓库的外部协作者"],
         [/Member and collaborator on (\d+) repositor(y|ies)/, "$1 个仓库的成员和协作者"],
         [/Upgrade for higher limits, premium models, AI reviews. Free responses reset in (\d+) days.?/, "升级以获得限制放宽、高级模型和 AI 审查。免费额度将在 $1 天内重置。"], // 免费版额度
