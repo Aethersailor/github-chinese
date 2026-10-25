@@ -4212,7 +4212,7 @@ I18N["zh-CN"]["settings/admin"] = { // 设置 - 账户
 
             "Link Patreon account": "关联 Patreon 账户",
                 "Connect a Patreon account for": "关联",
-                "to sponsor maintainers with. Get recognition on GitHub for sponsorships made on Patreon when the sponsored person has linked Patreon and GitHub, too, and has a public GitHub Sponsors profile.": "的 Patreon 账户，以便赞助维护者。当被赞助者也关联 Patreon 和 GitHub 账户时，在 Patreon 上获得的赞助也会显示在 GitHub 上，并显示 GitHub 赞助者的公开个人资料。",
+                "to sponsor maintainers with. Get recognition on GitHub for sponsorships made on Patreon when the sponsored person has linked Patreon and GitHub, too, and has a public GitHub Sponsors profile.": "的 Patreon 账户，以赞助维护者。如果受赞助者也已关联 Patreon 和 GitHub，且有公开的 GitHub Sponsors 个人资料，您在 Patreon 上提供的赞助也会在 GitHub 上得到展示。",
                 "Connect with Patreon": "关联 Patreon 账户",
                 "Successfully connected your GitHub account with Patreon.": "已成功将您的 GitHub 账户与 Patreon 关联。",
 
