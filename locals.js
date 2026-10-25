@@ -14196,7 +14196,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
                 // 删除工作流程运行 对话框
                     "Are you sure you want to permanently delete this workflow run?": "您确定要永久删除此工作流程运行吗？",
                     "This action cannot be undone.": "此操作无法撤消。",
-                    "Yes, delete this workflow run": "是的，删除此工作流程",
+                    "Yes, delete this workflow run": "是的，删除此工作流程运行",
                 // 顶部提醒
                     "Workflow run deleted successfully.": "工作流程运行删除成功。",
 
