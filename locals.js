@@ -4692,6 +4692,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
         // 预算和警报 https://github.com/settings/billing/budgets
            "Account budgets": "账户预算",
                 "Included usage alerts:": "包含用量警报：",
+                    "Turn on included usage email alerts": "开启包含用量电子邮件警报",
                 "New budget": "新建",
                 // "On": "开",
                 // "Off": "关",
