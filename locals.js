@@ -19357,6 +19357,9 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
             "Adding a self-hosted runner requires that you download, configure, and execute the GitHub Actions Runner. If you do not already have an existing volume licensing agreement for your GitHub purchases, by downloading and configuring the GitHub Actions Runner, you agree to the": "添加一个自托管运行器需要您下载、配置并执行 GitHub Actions 运行器。如果您还没有现有的 GitHub 购买量许可证协议，通过下载并配置 GitHub 操作运行器，您同意",
             "GitHub Customer Agreement": "GitHub 客户协议",
 
+        // OIDC 配置 /<user-name>/<repo-name>/settings/actions/oidc-configuration
+            "OIDC configuration": "OIDC 配置",
+
     },
     "regexp": [ // 正则翻译
         [/\/ Add new self-hosted runner ·/, "/ 创建自托管运行器 ·"],
