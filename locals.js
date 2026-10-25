@@ -4399,7 +4399,7 @@ I18N["zh-CN"]["settings/accessibility"] = { // 设置 - 无障碍
         ...I18N["zh-CN"]["settings-menu"]["static"],
 
         // Accessibility 无障碍 https://github.com/settings/accessibility
-            "General": "通常",
+            "General": "常规",
             "Character keys": "字符键",
                 "GitHub shortcuts": "GitHub 快捷键",
                 "that don't use modifier keys in their activation. For example, the": "，这些快捷键在激活时不使用修改键。例如，",
