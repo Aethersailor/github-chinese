@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+                "Identify and understand your project's dependencies.": "识别并了解项目的依赖项。",
                 "Understand the packages this repository depends on and secure its": "了解此仓库依赖的软件包，并保护其",
                 "software supply chain": "软件供应链",
             "Advanced Security features help keep your repository secure and updated. By enabling these features, you're granting us permission to perform read-only analysis on your repository. Unarchive your repository to access additional features.": "高级安全功能有助于保护您的仓库安全并及时更新。启用这些功能，即表示您授权我们对您的代码库执行只读分析。请解除仓库的归档状态以使用更多功能。", // 存档仓库
