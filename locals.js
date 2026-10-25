@@ -20246,7 +20246,7 @@ I18N["zh-CN"]["repository/settings/pages"] = { // 仓库设置页面(含组织�
                     "— Unavailable for your site because your domain is not properly configured to support HTTPS (": "— 您的网站不可用，因为您的域未正确配置为支持 HTTPS (",
                     "— Unavailable for your site because a certificate has not yet been issued for your domain (": "— 您的网站不可用，因为您的域尚未颁发证书 (",
                     "Troubleshooting custom domains": "自定义域故障排除",
-                    "— Required for your site because you are using the default domain (": "— 必须先设置自定义域，目前您正在使用默认域 (",
+                    "— Required for your site because you are using the default domain (": "— 此站点必须启用 HTTPS，因为正在使用默认域 (",
 
                     "HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.": "HTTPS 提供了一层加密，防止他人窥探或篡改您站点的流量。",
                     "When HTTPS is enforced, your site will only be served over HTTPS.": "当开启强制 HTTPS 时，您的站点将只通过 HTTPS 提供服务。",
