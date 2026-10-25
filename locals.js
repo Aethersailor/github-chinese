@@ -5996,6 +5996,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
             "Block user": "拉黑用户",
             "You have not blocked any users.": "您还没有拉黑任何用户。",
             "Unblock": "取消拉黑",
+            "Unblock user": "解除对用户的拉黑",
             "Warn me when a blocked user is a prior contributor to a repository": "请警告我，当被拉黑的用户是仓库的先前贡献者时",
             "Warn me when blocked users have contributed to a repository": "当已拉黑的用户为仓库做出过贡献时提醒我",
             "We will show this warning each time you visit a repository where someone you blocked has committed code, unless you own the repository or have also contributed a commit. This warning does not restrict your access.": "每次您访问有已拉黑用户提交过代码的仓库时，我们都会显示此警告，除非您拥有该仓库或也曾向其提交过代码。此警告不会限制您的访问。",
