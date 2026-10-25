@@ -4507,6 +4507,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                     "Chart settings": "图表设置",
                         "Differentiate by line style": "折线样式区分",
                             "Use unique line styles (dashed, dotted, etc.) to differentiate lines in charts.": "使用独特的线条样式（如虚线、点线等）在图表中区分不同的线条。",
+                        "Show data labels": "显示数据标签",
                 "All usage": "全部",
                     // 某单位
                     "Gross:": "总计：",
