@@ -6393,6 +6393,7 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
                 "associated with this package will be restored.": "将随此软件包一同恢复。",
                 "Please type": "请输入",
                 "to confirm:": "以确认：",
+                "I understand the consequences, restore this package.": "我了解后果，恢复此软件包。",
 
     },
     "regexp": [ // 正则翻译
