@@ -17811,6 +17811,7 @@ I18N["zh-CN"]["repository-settings-menu"] = { // 仓库设置公共部分
                 "Environments": "环境",
                 "Pages": "GitHub Pages",
                 "Custom properties": "自定义属性",  // 组织仓库
+                "Planning": "规划",
 
             // "Security": "安全",
                 "Advanced Security": "高级安全",
