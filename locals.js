@@ -10098,6 +10098,7 @@ I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请
             // "Projects": "项目",
                 "Filter by project": "按项目筛选",
                 "Filter projects": "筛选项目",
+                "Filter by projects": "按项目筛选",
                 "Repository": "仓库",
                 "Organization": "组织",
                 "No projects found. Sorry about that.": "很抱歉，未找到任何项目。",
