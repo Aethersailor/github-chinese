@@ -5288,6 +5288,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
               //}],
 
         // 账户预算 https://github.com/settings/billing/budgets
+            [/^Showing (\d+) to (\d+) of (\d+) budgets?$/, "显示第 $1 至 $2 项，共 $3 项预算"],
             [/(\d+) budgets?/, "$1 预算"],
 
         // 支付信息 https://github.com/settings/billing/payment_information
