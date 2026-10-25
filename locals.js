@@ -6390,6 +6390,7 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
                 "Are you absolutely sure?": "您完全确定吗？",
                 "This will restore the package": "这将恢复软件包",
                 ", making it available for pulling.": "，使其可被拉取。",
+                "associated with this package will be restored.": "将随此软件包一同恢复。",
 
     },
     "regexp": [ // 正则翻译
