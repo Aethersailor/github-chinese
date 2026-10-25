@@ -14464,6 +14464,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
             "Commit": "提交",
                 "pushed by": "推送者",
             "Manually run by": "手动运行由",
+            "Manually run": "手动运行",
             "The run was canceled by": "取消由", // 原文过于啰嗦
             "Pull request": "拉取请求",
                 "synchronize by": "同步者",
