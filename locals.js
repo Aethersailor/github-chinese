@@ -6007,6 +6007,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
                 "Search by username, full name, or public email": "按用户名、全名或公开电子邮箱搜索",
                 "User": "用户",
                 "Date blocked": "拉黑日期",
+                "Notes": "备注",
 
             "Block options": "拉黑选项",
             "For 1 day": "1 天",
