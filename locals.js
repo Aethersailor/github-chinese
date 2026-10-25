@@ -20282,6 +20282,8 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
             "AI Scan": "AI 扫描",
+            "AI Scan for pull requests": "拉取请求 AI 扫描",
+                "Generate security findings for non-CodeQL languages using AI.": "使用 AI 检测 CodeQL 不支持的语言中的安全问题。",
                 "Identify code security findings using AI.": "使用 AI 识别代码安全问题。",
                 "Learn more about AI scan": "了解更多关于 AI 扫描的信息",
             "Code Security": "代码安全",
