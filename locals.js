@@ -6390,6 +6390,11 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
 
     },
     "regexp": [ // 正则翻译
+        [/^Deleted (.+)$/, (match, date) => {
+            const dateRegExp = I18N["zh-CN"]["public"]["time-regexp"];
+            const translatedDate = dateRegExp.reduce((text, [pattern, replacement]) => text.replace(pattern, replacement), date);
+            return `删除于 ${translatedDate}`;
+        }],
         [/No recoverable packages were found for ([^ ]+)./, "没有找到 $1 的可恢复包。"],
         ...I18N["zh-CN"]["orgs-public"]["regexp"],
     ],
