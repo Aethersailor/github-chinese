@@ -6563,6 +6563,8 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
 
                 // "Copilot in the CLI": "在终端中使用",
                     "You can use": "您可以",
+                    "You can use the": "您可以使用",
+                    ". Enforcement begins July 27th, 2026 in version 1.1 of the GitHub Copilot app. The Copilot CLI policy continues to govern the GitHub Copilot App until version 1.1": "。此策略自 2026 年 7 月 27 日起在 GitHub Copilot 应用 1.1 版中开始实施。在 1.1 版之前，GitHub Copilot 应用继续适用 Copilot CLI 策略。",
                     "GitHub Copilot for assistance in terminal": "使用 GitHub Copilot 终端辅助工具",
                 "Copilot Chat in the IDE": "在 IDE 中使用 Copilot Chat",
                     "GitHub Copilot Chat in the IDE": "在 IDE 中使用 Copilot Chat",
