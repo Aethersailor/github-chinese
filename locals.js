@@ -19202,6 +19202,8 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
             "Actions permissions": "操作权限",
             "Actions policies": "Actions 策略",
             "New policy": "新建策略",
+            "Import a ruleset": "导入规则集",
+                "Choose a JSON file to upload": "选择 JSON 文件上传",
             "You haven't created any policies": "您尚未创建任何策略",
             "Define whether actions can run in specific contexts.": "定义是否允许操作在特定上下文中运行。",
             "policies": "策略",
