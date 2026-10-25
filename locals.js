@@ -10037,6 +10037,7 @@ I18N["zh-CN"]["repository/milestone"] = I18N["zh-CN"]["repository/milestones"]; 
 I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请求页面公共部分
     "static": { // 静态翻译
         // pull 与 request 公共词条
+            "Items will be filtered as you type": "输入时将自动筛选项目",
             "Learn more about searching and filtering": "了解如何搜索和筛选",
             "Expand sidebar": "展开侧边栏",
             "Collapse sidebar": "折叠侧边栏",
