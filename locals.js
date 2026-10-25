@@ -19365,6 +19365,9 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
                 "Customize the subject (sub) claim in the OIDC token, used to identify the workflow run context.": "自定义 OIDC 令牌中的主体（sub）声明，用于标识工作流运行上下文。",
                 "Use default template": "使用默认模板",
                     "When selected, use upstream template for the subject claim. Unselect to set a custom template.": "选中时，主体声明使用上游模板。取消选中可设置自定义模板。",
+                "Use immutable subject claim": "使用不可变主体声明",
+                    "Improve security by including unique identifiers in the subject claim, ensuring that trust policies cannot be assumed by a different repository or organization with the same name.": "在主体声明中包含唯一标识符以提高安全性，确保其他同名仓库或组织无法通过这些信任策略获取权限。",
+                    "Learn more about immutable subject claims.": "了解更多关于不可变主体声明的信息。",
 
     },
     "regexp": [ // 正则翻译
