@@ -5997,6 +5997,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
             "You have not blocked any users.": "您还没有拉黑任何用户。",
             "Unblock": "取消拉黑",
             "Warn me when a blocked user is a prior contributor to a repository": "请警告我，当被拉黑的用户是仓库的先前贡献者时",
+            "Warn me when blocked users have contributed to a repository": "当已拉黑的用户为仓库做出过贡献时提醒我",
             "On repositories you haven’t contributed to yet, we’ll warn you when a user you’ve blocked has previously made contributions.": "在您还没有贡献的仓库里，当您拉黑的用户之前有贡献时，我们会警告您。",
             "You can block a user to deny them access to repositories and more.": "您可以拉黑用户，以拒绝他们访问仓库和其他功能。",
             "On repositories you haven't contributed to yet, we'll warn you when a user you've blocked has previously made contributions.": "在您还没有贡献的仓库里，当您拉黑的用户之前有贡献时，我们会警告您。",
