@@ -19214,6 +19214,7 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
                 "Allow actions by Marketplace": "允许来自市场的操作，",
                 "verified creators": "由经验证的创建者创建",
                 "Allow specified actions and reusable workflows": "允许指定的操作和可复用的工作流程",
+                "Allow or block specified actions and reusable workflows": "允许或阻止指定的操作和可复用工作流程",
                 "Enter a comma-separated list of actions and reusable workflows": "输入以逗号分隔的操作和可复用的工作流程列表",
                 "Wildcards, tags, and SHAs are allowed.": "允许使用通配符、标签和 SHA。",
                 "Action examples:": "操作示例：",
