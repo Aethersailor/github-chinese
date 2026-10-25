@@ -4663,6 +4663,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
 
         // AI 用量分析 https://github.com/settings/billing/ai_usage
 
+            "Get AI Usage Report": "获取 AI 用量报告",
             "No usage": "暂无用量",
             "No usage data found for the selected filters.": "未找到与所选筛选条件匹配的用量数据。",
             // 用量分析
