@@ -20163,6 +20163,7 @@ I18N["zh-CN"]["repository/settings/pages"] = { // 仓库设置页面(含组织�
             "Visit site": "访问网站",
             "Additional site options": "站点附加选项",
             "Unpublish site": "取消站点发布",
+                "Unpublishing will remove this GitHub Pages site and prevent it from being served, but it will not prevent it from being rebuilt. To completely disable the site, remove the GitHub Actions workflow that builds the page.": "取消发布将移除此 GitHub Pages 站点并停止提供访问，但不会阻止重新构建。若要彻底禁用此站点，请移除用于构建页面的 GitHub Actions 工作流。",
                 // 顶部提醒
                     "GitHub Pages unpublished.": "GitHub  Pages 未发布。",
 
