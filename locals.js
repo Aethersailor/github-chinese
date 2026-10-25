@@ -30528,6 +30528,7 @@ I18N["zh-CN"]["repository/agents"] = {
         "Created by me": "由我创建的",
         "All sessions": "所有任务",
         "My sessions": "我的任务",
+        "Copilot navigation": "Copilot 导航",
 
         // 任务列表
         "Sessions": "智能体任务",
