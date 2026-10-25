@@ -11263,6 +11263,7 @@ I18N["zh-CN"]["repository/pulls"] = { // 仓库 - 拉取请求页面
         ...I18N["zh-CN"]["repository/pull_issue_public"]["static"],
 
         // 仓库 --> 拉取请求 标签卡 /<user-name>/<repo-name>/pulls
+            "No pull requests matched your search": "没有与搜索匹配的拉取请求",
             "Search pull requests": "搜索拉取请求",
             "Authored by me": "由我创建",
             "Review requests": "审查请求",
