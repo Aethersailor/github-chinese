@@ -5133,6 +5133,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
             [/(\d+) included Codespaces core hours/, "$1 代码空间核心小时数"],
             [/(\d+) requests/, "$1 请求"],
             [/Cost calculated based on (\d+) Spark premium requests? that exceed the premium request usage included with your Copilot licenses./, "根据您的 Copilot 许可证中包含的高级请求使用量，计算出 $1 个超出部分的 Spark 高级请求费用。"],
+            [/^Cost calculated based on (\d+(?:,\d{3})*(?:\.\d+)?) Spark AI credits that exceed the AI credits usage included with your Copilot licenses\.$/, "费用根据超出 Copilot 许可所含额度的 $1 个 Spark AI 额度计算。"],
 
         // 计费用量 - 右上角时间选项
             [/^Timeframe: (Today|Current month|Last month|This year \((\d+)\)|Last year \((\d+)\))$/, (match, p1, p2, p3) => {
