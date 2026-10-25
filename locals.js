@@ -4223,7 +4223,7 @@ I18N["zh-CN"]["settings/admin"] = { // 设置 - 账户
                 "Successfully disconnected your GitHub account from Patreon.": "已成功解除您的 GitHub 账户与 Patreon 的关联。",
 
             "Export account data": "导出账户数据",
-            "Export all repositories and profile metadata for": "导出所有仓库和配置元数据，自",
+            "Export all repositories and profile metadata for": "导出以下账户的所有仓库和个人资料元数据：",
             ". Exports will be available for 7 days.": "。导出结果将有 7 天有效期。",
             "Start export": "开始导出",
             "Recent exports": "近期导出",
