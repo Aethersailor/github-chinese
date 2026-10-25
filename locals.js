@@ -6003,6 +6003,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
             "You can block a user to deny them access to repositories and more.": "您可以拉黑用户，以拒绝他们访问仓库和其他功能。",
             "On repositories you haven't contributed to yet, we'll warn you when a user you've blocked has previously made contributions.": "在您还没有贡献的仓库里，当您拉黑的用户之前有贡献时，我们会警告您。",
             "All blocked users": "所有被拉黑的用户",
+            "Currently blocked": "当前已拉黑的用户",
 
             "Block options": "拉黑选项",
             "For 1 day": "1 天",
