@@ -17778,7 +17778,7 @@ I18N["zh-CN"]["repository-settings-menu"] = { // 仓库设置公共部分
 
 
             // 左侧菜单
-            "General": "通常",
+            "General": "常规",
 
             "Access": "访问",
                 // "Collaborators": "协作者",
