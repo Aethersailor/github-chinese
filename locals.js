@@ -16959,6 +16959,7 @@ I18N["zh-CN"]["repository/pulse"] = { // 仓库 -> 洞察 - 统计
     },
     "regexp": [ // 正则翻译
         ...I18N["zh-CN"]["repository-public"]["regexp"],
+        [/^Insights: ([^\s/]+\/[^\s/]+)$/, "洞察：$1"],
         [/(\d+) authors?/, "$1 位作者"],
         [/to ([^ ]+) and/, "到 $1 分支和"],
         [/to all branches. On ([^ ]+),/, "到全部分支。在 $1 分支，"],
