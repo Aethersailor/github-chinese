@@ -11262,6 +11262,7 @@ I18N["zh-CN"]["repository/pulls"] = { // 仓库 - 拉取请求页面
 
         // 仓库 --> 拉取请求 标签卡 /<user-name>/<repo-name>/pulls
             "Authored by me": "由我创建",
+            "Involves me": "涉及我",
             "Assigned to me": "分配给我",
             // 欢迎信息
             "Welcome to pull requests!": "欢迎使用拉取请求！",
