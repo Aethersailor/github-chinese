@@ -6552,6 +6552,7 @@ I18N["zh-CN"]["settings/copilot"] = { // 设置 - GitHub Copilot
             "Features": "功能",
                 "Copilot in the cloud": "云端 Copilot",
                     "Coming soon": "即将推出",
+                    "Use Copilot on GitHub.com and GitHub Mobile. Start and continue secure cloud sessions across supported Copilot surfaces. This policy replaces the previous Copilot Chat in GitHub, Copilot Chat in GitHub Mobile, and Cloud Agent policies.": "在 GitHub.com 和 GitHub Mobile 上使用 Copilot，并在受支持的 Copilot 界面间启动和继续安全的云端会话。此策略取代此前的 GitHub 中的 Copilot Chat、GitHub Mobile 中的 Copilot Chat 和云端智能体策略。",
                 // "Copilot in github.com": "在 github.com 中使用 Copilot",
                     //"You can use Copilot Chat in Github.com, Copilot for pull requests, and all of the preview features.": "您可以在 Github.com 中使用 Copilot Chat，也可以使用 Copilot 拉取请求和所有预览功能。",
                     "You can use Copilot Chat in GitHub.com, Copilot for pull requests, and all of the preview features.": "您可以在 GitHub.com 中使用 Copilot Chat，Copilot 拉取请求和所有预览功能。",
