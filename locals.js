@@ -6392,6 +6392,7 @@ I18N["zh-CN"]["settings/packages"] = { // 设置 - 软件包
                 ", making it available for pulling.": "，使其可被拉取。",
                 "associated with this package will be restored.": "将随此软件包一同恢复。",
                 "Please type": "请输入",
+                "to confirm:": "以确认：",
 
     },
     "regexp": [ // 正则翻译
