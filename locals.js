@@ -7277,6 +7277,7 @@ I18N["zh-CN"]["settings/security-log"] = { // 设置 - 安全日志
     "regexp": [ // 正则翻译
         [/Found (\d+) events?/, "发现 $1 个活动"],
         [/View ([^ ]+)'s profile/, "查看 $1 的资料"],
+        [/^Workflow disabled (\d+) on$/, "已禁用工作流 $1，所属仓库："],
         [/Regenerated a token for (.+) ending in (.+) for the (.+) GitHub App\./, "为 $3 GitHub 应用重新生成了 $1 的令牌（尾号 $2）。"],
         [/ending in (.+) for the/, "，尾号 $1，用于"],
         [/Added deployment branch pattern with value (.+) for (.+)\./, "添加部署分支模式，值为 $1，用于 $2。"],
