@@ -4465,6 +4465,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                 "per": "/",
                 "month": "月",
                 "year": "年",
+                "U.S. Sales tax is not included in the amounts shown above.": "上述金额不包含美国销售税。",
 
             "Metered usage": "计费用量",
                 "Usage by products": "按产品分类", // 省略重复内容
