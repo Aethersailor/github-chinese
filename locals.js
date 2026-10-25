@@ -6011,6 +6011,7 @@ I18N["zh-CN"]["settings/blocked_users"] = { // 设置 - 黑名单
 
             "Block options": "拉黑选项",
             "Block settings": "拉黑设置",
+            "Close all content": "关闭所有内容",
             "For 1 day": "1 天",
             "For 3 days": "3 天",
             "For 7 days": "7 天",
