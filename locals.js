@@ -4910,6 +4910,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
             "Receipt": "收据",
                 "Download receipt": "下载收据",
                 "View receipt": "查看收据",
+                "Download invoice(s)": "下载发票",
             "Success": "成功",
             "Amounts shown in USD": "以美元显示的金额",
 
