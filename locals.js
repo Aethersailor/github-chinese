@@ -10677,6 +10677,7 @@ I18N["zh-CN"]["repository/issues"] = { // 仓库 - 议题页面
                     "No blocked by": "无被阻塞",
                     "Has blocked by": "包含被阻塞",
                     "Exclude blocked-by": "排除被阻塞",
+                "Field": "字段",
                 "Relates to": "关联议题",
                     "No relates to": "无关联议题",
                     "Has relates to": "有关联议题",
