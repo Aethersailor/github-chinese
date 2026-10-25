@@ -13950,6 +13950,7 @@ I18N["zh-CN"]["repository/discussions"] = { // 讨论页面
     "regexp": [ // 正则翻译
         ...I18N["zh-CN"]["repository-public"]["regexp"],
         [/(\d+) categories?/, "$1 个分类"],
+        [/^([^\s/]+) ([^\s/]+) Discussions$/, "$1/$2 讨论"],
         [/Congratulations, you've created the first discussion in ([^ ]+)!/, "恭喜您，您已经在 $1 中创建了第一个讨论!"],
         [/(\d+) answers?/, "$1 位答复者"],
         [/(\d+) comments?/, "$1 条评论"],
