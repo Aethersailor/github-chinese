@@ -5262,6 +5262,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
             [/Your usage report request is already in progress. Check ([^@]+@[^\n]+) for the report when it's ready./, "您的使用报告请求正在处理。报告就绪后，请到 $1 查收。"],
             // 获取使用报告窗口
             [/The usage report will be emailed when it's ready to ([^@]+@[^\n]+)./, "使用报告就绪后，将通过电子邮件发送到 $1。"],
+            [/^Use arrow keys to select a date, or type a date like "([^"]+)" or "([^"]+)"\.$/, "使用方向键选择日期，或输入日期，例如“$1”或“$2”。"],
               // 传统选项
               //[/Metered usage before the billing transition, until (.+)/, (match, p1) => {
               //  const dateRegExp = I18N["zh-CN"]["public"]["time-regexp"];
