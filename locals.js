@@ -5434,6 +5434,7 @@ I18N["zh-CN"]["settings/education/benefits"] = {  // 设置 - 账单和计划（
 I18N["zh-CN"]["settings/emails"] = { // 设置 - 电子邮箱
     "static": { // 静态翻译
         ...I18N["zh-CN"]["settings-menu"]["static"],
+        "Connected to Google": "已关联 Google",
 
         // Emails 电子邮箱 https://github.com/settings/emails
             // 黄框警告
