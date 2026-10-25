@@ -20595,6 +20595,7 @@ I18N["zh-CN"]["repository/settings/secrets"] = { // 仓库设置 - 机密 /<user
         // 操作机密 /<user-name>/<repo-name>/settings/secrets/actions
             "Actions secrets and variables": "操作机密和变量",
             "Agents secrets and variables": "智能体机密和变量",
+                "Anyone with collaborator access to this repository can use these secrets and variables for the Copilot cloud agent.": "任何拥有此仓库协作者权限的人都可以将这些机密和变量用于 Copilot 云端智能体。",
             "New repository secret": "新建仓库机密",
             "Secrets and variables allow you to manage reusable configuration data. Secrets are": "机密和变量允许您管理可重复使用的配置数据。机密是",
             "encrypted": "被加密",
