@@ -10108,6 +10108,7 @@ I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请
             // "Milestones": "里程碑",
                 "Filter by milestone": "按里程碑筛选",
                 "Filter milestones": "筛选里程碑",
+                "Filter by milestones": "按里程碑筛选",
                 "Issues with no milestone": "无里程碑的议题",
                 "Pull requests with no milestone": "无里程碑的拉取请求", // pulls
                 "Nothing to show": "暂无",
