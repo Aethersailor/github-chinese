@@ -20281,6 +20281,7 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Edit dependabot.yml": "编辑 dependabot.yml",
             "Automatically open dependency update pull requests by": "要自动创建依赖项更新拉取请求，请",
                 "configuring dependabot.yml": "配置 dependabot.yml",
             "Group security updates into one pull request per package manager and manifest directory. For advanced configuration, disable this setting and use dependabot.yml.": "按包管理器和清单目录将安全更新分组为一个拉取请求。如需高级配置，请禁用此设置并使用 dependabot.yml。",
