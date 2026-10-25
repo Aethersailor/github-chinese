@@ -4549,6 +4549,9 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                                 "The playground and free API usage are rate limited by requests per minute, requests per day, tokens per request, and concurrent requests.": "操场和免费 API 的使用受到以下限制：每分钟请求数、每天请求数、每次请求的令牌数以及并发请求数。",
                                 "Learn more about GitHub Models rate limits": "了解更多", // 有上下文，故省略
 
+                    // Sandbox
+                        "Billable spend for Sandbox for the selected timeframe.": "所选时间范围内 Sandbox 的可计费支出。",
+
                     // Spark
                         "Spark premium requests": "Spark 高级请求",
 
