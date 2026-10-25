@@ -20282,6 +20282,8 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
             "AI Scan": "AI 扫描",
+                "Identify code security findings using AI.": "使用 AI 识别代码安全问题。",
+                "Learn more about AI scan": "了解更多关于 AI 扫描的信息",
             "Code Security": "代码安全",
             "Edit dependabot.yml": "编辑 dependabot.yml",
             "Automatically open dependency update pull requests by": "要自动创建依赖项更新拉取请求，请",
