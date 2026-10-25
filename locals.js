@@ -10115,6 +10115,8 @@ I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请
 
             "Assignee": "受理人",
                 "Filter by who’s assigned": "按受理人筛选",
+                "Filter by assignee": "按受理人筛选",
+                "No assignees": "无受理人",
                 "Filter assignees": "筛选受理人",
                 "Assigned to nobody": "无受理人",
                 // [/Awaiting requested review from ([^ ]+)/, "正在等待 $1 审查请求"],
