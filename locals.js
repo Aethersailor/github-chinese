@@ -14511,6 +14511,7 @@ I18N["zh-CN"]["repository/actions"] = { // 仓库 - 操作页面
     },
     "regexp": [ // 正则翻译
         ...I18N["zh-CN"]["repository-public"]["regexp"],
+        [/^([^\s]+) \(default\)$/, "$1（默认）"],
         [/^Auto-refresh: (\d+)(s|m)$/, (match, count, unit) => `自动刷新：${count} ${unit === "s" ? "秒" : "分钟"}`],
         [/Back to pull request (#\d+)/, "返回拉取请求 $1"],
         [/Workflow (.*) pinned./, "工作流程 $1 已置顶"],
