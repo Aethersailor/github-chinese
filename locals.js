@@ -11280,6 +11280,7 @@ I18N["zh-CN"]["repository/labels"] = I18N["zh-CN"]["repository/issues"];
 I18N["zh-CN"]["repository/pulls"] = { // 仓库 - 拉取请求页面
     "static": { // 静态翻译
         ...I18N["zh-CN"]["repository-public"]["static"],
+        ...I18N["zh-CN"]["repository/issues"]["static"],
         ...I18N["zh-CN"]["repository/pull_issue_public"]["static"],
 
         // 仓库 --> 拉取请求 标签卡 /<user-name>/<repo-name>/pulls
