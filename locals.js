@@ -19743,6 +19743,7 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
         "Learn more about Copilot coding agent": "就 Copilot 编程智能体了解更多信息",
 
         "Internet access": "访问互联网",
+            "Ensure that Copilot code review only accesses approved network resources while reviewing changes.": "确保 Copilot 代码审查在审查更改时只访问已批准的网络资源。",
             "Ensure that Copilot in the cloud only accesses approved network resources while working on tasks.": "确保云端 Copilot 在执行任务时只访问已批准的网络资源。",
                 "Learn more about customizing network access.": "了解更多关于自定义网络访问的信息。",
             "Ensure that the agent only accesses approved network resources during code generation and execution.": "确保智能体在代码生成和执行过程中只访问已批准其访问的网络资源。",
