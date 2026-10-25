@@ -10150,7 +10150,7 @@ I18N["zh-CN"]["repository/pull_issue_public"] = { // 仓库 - 议题和拉取请
                 "Least commented": "最少评论",
                 "Recently updated": "最近更新",
                 "Least recently updated": "最早更新", //?
-                "Most reactions": "多数反应",
+                "Most reactions": "最多回应",
                 "Best match": "最佳匹配",
 
             // 选中模式
