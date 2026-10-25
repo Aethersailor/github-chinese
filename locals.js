@@ -18133,7 +18133,7 @@ I18N["zh-CN"]["repository/settings"] = { // 仓库设置 - 通常 /<user-name>/<
             // 存档仓库对话框
             "Archive repository": "存档仓库",
             "This repository will become read-only.": "该仓库将设置为只读。",
-            "You will still be able to fork the repository and unarchive it at any time.": "您仍然可以随时访问复刻仓库并取消存档。",
+            "You will still be able to fork the repository and unarchive it at any time.": "您仍然可以复刻此仓库，也可以随时解除存档。",
             "Unexpected bad things will happen if you don’t read this!": "如果您不阅读此说明，将会发生意想不到的事情！",
             "All scheduled workflows will stop running.": "所有预定的工作流程将停止运行。",
             "Security features will be unavailable:": "安全功能将无法使用：",
