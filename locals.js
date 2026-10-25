@@ -4539,6 +4539,9 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                         "About Copilot premium requests": "关于 Copilot 高级请求",
                         "If enabled, additional premium requests beyond the included amount for each license will be billed.": "若启用此功能，每个许可证所包含额度之外的额外高级请求将另行计费。",
                         "Manage Copilot policy": "管理 Copilot 策略",
+                    // 高级安全
+                        "Advanced Security usage": "高级安全用量",
+
                     // 模型
                         "About GitHub Models rate limits": "关于 GitHub 模型速率限制",
                             "GitHub Models rate limits": "GitHub 模型速率限制",
