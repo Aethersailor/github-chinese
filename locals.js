@@ -30532,6 +30532,7 @@ I18N["zh-CN"]["repository/agents"] = {
 
         // 任务列表
         "Sessions": "智能体任务",
+            "Filter sessions": "筛选任务",
             "Active": "进行中",
             "Completed": "已完成",
             "Let Copilot work on tasks for you in the background.": "让 Copilot 在后台为您处理任务。",
