@@ -19750,6 +19750,8 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
                 "Learn more about customizing network access": "了解更多",
 
             "Enable firewall": "启用防火墙",
+                "Limit Internet access for Copilot code review to only allow access to allowlisted locations": "将 Copilot 代码审查的互联网访问权限限制为仅允许访问白名单中的位置",
+                "The firewall will not be enforced on self-hosted runners.": "自托管运行器不会强制执行此防火墙。",
                 "Limit Internet access for Copilot in the cloud to only allow access to allowlisted locations": "将云端 Copilot 的互联网访问权限限制为仅允许访问白名单中的位置",
                 "Recommended": "推荐",
                 "Limit Copilot cloud agent’s Internet access to only allow access to allowlisted locations": "将 Copilot 云端智能体的互联网访问权限限制为仅允许访问白名单中的位置",
