@@ -19727,6 +19727,7 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
         "Copilot coding agent": "Copilot 编程智能体",
         "Copilot cloud agent": "Copilot 云端智能体",
         "Cloud agent": "云端智能体",
+        "Copilot in the cloud": "云端 Copilot",
 
         "You can configure Copilot cloud agent for other users with access to this repository, but you won't be able to assign tasks to Copilot because you don't have a Copilot Pro, Copilot Pro+, Copilot Business or Copilot Enterprise license.": "您可以为其他具有此仓库访问权限的用户配置 Copilot 云端智能体，但由于您没有 Copilot Pro、Copilot Pro+、Copilot Business 或 Copilot Enterprise 许可证，因此无法向 Copilot 分配任务。",
         "You can configure Copilot coding agent for other users with access to this repository, but you won't be able to assign tasks to Copilot because you don't have a Copilot Pro+ or Copilot Enterprise license.": "您可以为其他具有此仓库访问权限的用户配置 Copilot 编程智能体，但由于您没有 Copilot Pro+ 或 Copilot 企业版许可证，因此无法向 Copilot 分配任务。",
