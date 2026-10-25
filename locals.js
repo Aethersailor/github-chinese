@@ -20281,6 +20281,8 @@ I18N["zh-CN"]["repository/settings/security_analysis"] = { // 仓库设置 - 高
 
         // 高级安全 /<user-name>/<repo-name>/settings/security_analysis
             "Dependency Scanning": "依赖项扫描",
+            "Dependabot auto-triage rules": "Dependabot 自动分类规则",
+                "Define rules for security updates and auto-dismissals on Dependabot alerts.": "定义 Dependabot 警报的安全更新和自动解除规则。",
             "Malware alerts": "恶意软件警报",
                 "Receive alerts when malware is detected in your dependencies.": "在依赖项中检测到恶意软件时接收警报。",
             "Keep your dependencies secure and up-to-date with": "使用以下工具保持依赖项安全并及时更新：",
