@@ -4339,6 +4339,7 @@ I18N["zh-CN"]["settings/appearance"] = { // 设置 - 外观
             "Theme preferences": "主题首选项",
             "Choose how GitHub looks to you. Select a single theme, or sync with your system and automatically switch between day and night themes. Selections are applied immediately and saved automatically.": "选择 GitHub 在您眼中的样子。选择单一主题，或与您的系统同步并自动在白天和夜晚的主题之间切换。选择将立即生效并自动保存。",
             "Theme mode": "主题模式",
+            "Selected theme:": "所选主题：",
                 "Single theme": "单一主题",
                 "Sync with system": "与系统同步",
             "GitHub will use your selected theme": "GitHub 将使用您选择的主题",
