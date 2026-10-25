@@ -16938,6 +16938,7 @@ I18N["zh-CN"]["repository/pulse"] = { // 仓库 -> 洞察 - 统计
                 "changed and there have been": "已经发生了变化，并且有",
 
             "Top Committers": "提交排行",
+            "Top committers": "提交排行",
                 "Chart options": "图表选项",
                     "View as table": "以表格形式查看",
                         "Category": "作者", // 此处原文错误
