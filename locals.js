@@ -4503,6 +4503,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
                         "DateTime": "日期时间",
                     "Download CSV": "下载 CSV",
                     "Download PNG": "下载 PNG",
+                "Customization settings": "自定义设置",
                 "All usage": "全部",
                     // 某单位
                     "Gross:": "总计：",
