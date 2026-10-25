@@ -19274,7 +19274,7 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
                 "Only users who are both new on GitHub and who have never had a commit or pull request merged into this repository will require approval to run workflows.": "只有新加入 GitHub 和从未有提交或拉取请求合并到该仓库的用户才需要批准运行工作流。",
             "Require approval for first-time contributors": "要求对首次贡献者进行批准审查",
                 "Only first-time contributors will require approval to run workflows.": "只有首次贡献者才需要获得批准才能运行工作流程。",
-                "Only users who have never had a commit or pull request merged into this repository will require approval to run workflows.": "只有从未有提交或拉动请求合并到该仓库的用户才需要批准运行工作流。",
+                "Only users who have never had a commit or pull request merged into this repository will require approval to run workflows.": "只有从未有提交或拉取请求合并到该仓库的用户才需要批准运行工作流。",
             "Require approval for all outside collaborators": "要求对所有外部协作者进行批准审查",
                 "All outside collaborators will always require approval to run workflows on their pull requests.": "所有外部协作者将始终需要批准才能在他们的拉取请求上运行工作流程。",
             "Require approval for all external contributors": "要求对所有外部贡献者进行批准审查",
