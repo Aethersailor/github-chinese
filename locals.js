@@ -4788,6 +4788,7 @@ I18N["zh-CN"]["settings/billing"] = { // 设置 - 账单和计划
         // 许可 https://github.com/settings/billing/licensing
             // Github Copllot
                 "Your AI pair programmer": "您的 AI 编程助理",
+                    "Upgrade Individual Plan": "升级个人计划",
                     "You are eligible to use GitHub Copilot for free.": "您有资格免费使用 GitHub Copilot。",
 
             "Current plan": "当前计划",
