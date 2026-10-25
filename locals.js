@@ -19228,6 +19228,9 @@ I18N["zh-CN"]["repository/settings/actions"] = { // 仓库设置 - 操作 /<user
             "Require actions to be pinned to a full-length commit SHA": "要求将操作固定到完整的提交 SHA",
 
             "Artifact and log retention": "工件和日志保留",
+            "Check, workflow run, status, artifact and log retention": "检查、工作流运行、状态、工件和日志保留期",
+                "Choose the repository settings for checks, workflow runs, statuses, artifacts, and logs.": "配置仓库中检查、工作流运行、状态、工件和日志的保留设置。",
+                "Learn more about the check, workflow run, status, artifact and log retention policy.": "了解有关检查、工作流运行、状态、工件和日志保留策略的更多信息。",
                 "Choose the repository settings for artifacts and logs.": "选择工件和日志的仓库设置。",
                 "There is a maximum limit of": "最大限制为",
                 "days.": "天。",
