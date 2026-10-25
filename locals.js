@@ -19774,6 +19774,7 @@ I18N["zh-CN"]["repository/settings/copilot/coding_agent"] = {
         "Policy": "策略",
             "Require approval for workflow runs": "要求审批工作流运行",
                 "When Copilot pushes changes, require approval from a maintainer with write access before Actions workflows are run.": "当 Copilot 推送更改时，要求具有写入权限的维护者批准后再运行 Actions 工作流。",
+                "When Copilot pushes changes, require approval from a maintainer with write access before Actions workflows are run. When this policy is disabled, Actions workflows run automatically when Copilot pushes, except when the push comes from an automation that requires approval.": "当 Copilot 推送更改时，要求具有写入权限的维护者批准后再运行 Actions 工作流。禁用此策略后，Copilot 推送时将自动运行 Actions 工作流，但推送来自需要批准的自动化时除外。",
                 "Allowing GitHub Actions workflows to run without approval may allow unreviewed code written by Copilot to gain write access to your repository or access your GitHub Actions secrets.": "允许 GitHub Actions 工作流未经审批即运行，可能会让 Copilot 编写的未经审查代码获得仓库写入权限，或访问您的 GitHub Actions 机密。",
 
         "Validation tools": "验证工具",
