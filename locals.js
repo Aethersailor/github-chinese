@@ -9668,6 +9668,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
             // "Find a branch": "查找分支",
 
             // 正文
+            "Latest commit": "最新提交",
             "commit": "次提交",
             "commits": "次提交",
             "failure": "失败",
