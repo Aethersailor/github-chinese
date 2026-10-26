@@ -9921,6 +9921,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
         ...I18N["zh-CN"]["repository-public"]["regexp"],
         [/^(\d+) characters? remaining$/, "还可输入 $1 个字符"],
         [/^Subscribe to events for ([^\s/]+\/[^\s/]+)$/, "订阅 $1 的事件"],
+        [/^Showing ([\d,]+) files?\.$/, "显示 $1 个文件。"],
         [/^Selected: (.+)$/, "已选择：$1"],
         [/More than (\d+) unreleased commits since ([^ ]+)/, "$2 以来有超过 $1 个未发布的提交"],
         [/(\d+) unreleased commits since ([^ ]+)/, "$2 以来有 $1 个未发布的提交"],
