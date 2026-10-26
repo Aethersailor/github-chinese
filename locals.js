@@ -54,7 +54,7 @@ I18N.conf = {
     rePagePathOrg: /^\/[^\/]+\/[^\/]+\/(repositories\/new|repositories|sponsoring|discussions|projects|packages|teams|new-team|people|outside-collaborators|pending_collaborators|dashboard|billing_managers\/new|invitations?|settings\/(profile|billing|roles|member_privileges|teams|import-export|blocked_users|interaction_limits|code_review_limits|moderators|repository-defaults|rules|codespaces|copilot|actions|hooks|discussions|packages|pages|projects|security_analysis|security|dependabot_rules|domains|secrets|variables|oauth_application_policy|installations|personal-access-token|reminders|sponsors-log|audit-log|deleted_repositories|applications\/new|applications|apps\/new|apps|publisher|policies\/repositories|custom-properties|issue-fields|sandboxes)|topics|domain\/new|audit-log\/event_settings|billing\/(history|plans)|policies\/applications)|^\/[^\/]+\/(enterprise_plan|sponsoring)/,
 
     // 特定页面，启用`字符数据`监测
-    characterDataPage: ['repository/new', 'repository/edit', 'new', 'new/import', 'orgs/repositories/new', 'repository/blob', 'repository/pull', 'marketplace', 'homepage', 'repository/issues', 'repository/commit', 'repository/actions', 'repository/pulls', 'copilot', 'spark', 'repository/settings/rules', 'pulls', 'settings/billing', 'settings/blocked_users'],
+    characterDataPage: ['repository/new', 'repository/edit', 'new', 'new/import', 'orgs/repositories/new', 'repository', 'repository/blob', 'repository/pull', 'marketplace', 'homepage', 'repository/issues', 'repository/commit', 'repository/actions', 'repository/pulls', 'copilot', 'spark', 'repository/settings/rules', 'pulls', 'settings/billing', 'settings/blocked_users'],
 
     // 特定页面，忽略突变元素规则
     ignoreMutationSelectorPage: {
@@ -9411,6 +9411,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
                 "Add this repository to one or more lists": "添加此仓库到 1 或多个列表",
 
                 "Star lists": "标星列表",
+                    "You can enter up to": "最多可输入",
                     "Items will be filtered as you type": "输入时将自动筛选项目",
                     "No lists yet": "尚无清单",
 
@@ -9915,6 +9916,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
         [/Successfully fetched and fast-forwarded from upstream ([^ ]+)\./, "成功从上游 $1 中获取并快速转发。"],
         [/Successfully discarded changes and synchronized branch to match upstream ([^ ]+)\./, "成功丢弃更改，并将分支与上游 $1 保持同步。"],
         ...I18N["zh-CN"]["repository-public"]["regexp"],
+        [/^(\d+) characters? remaining$/, "还可输入 $1 个字符"],
         [/More than (\d+) unreleased commits since ([^ ]+)/, "$2 以来有超过 $1 个未发布的提交"],
         [/(\d+) unreleased commits since ([^ ]+)/, "$2 以来有 $1 个未发布的提交"],
         [/commits by (.+)/, "由 $1 提交"],
