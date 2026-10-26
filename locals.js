@@ -9411,6 +9411,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
                 "Add this repository to one or more lists": "添加此仓库到 1 或多个列表",
 
                 "Star lists": "标星列表",
+                    "No lists yet": "尚无清单",
 
             // 仓库主页 分支保护
                 // [/Your ([^ ]+) branch isn't protected/, "您的 $1 分支不受保护"], // 仓库主页 分支保护
