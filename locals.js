@@ -9317,6 +9317,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
                 "Clone repository: Copy HTTPS": "克隆仓库：复制 HTTPS",
                 "Clone repository: Copy SSH": "克隆仓库：复制 SSH",
                 "Clone repository: Copy GitHub CLI": "克隆仓库：复制 GitHub CLI",
+                "Code access options navigation": "代码获取选项导航",
                 "Copy file permalink": "复制文件永久链接",
 
             // 操作条
