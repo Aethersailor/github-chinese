@@ -9891,7 +9891,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
             "Top": "顶部",
             "Jump to file": "跳转到文件",
 
-            "Name": "文件名",
+            "Name": "名称",
             "Last commit message": "最后提交消息",
             "Last commit date": "最后提交时间",
 
