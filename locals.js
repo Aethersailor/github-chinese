@@ -9689,6 +9689,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
 
             // 右侧栏
             "Watchers": "关注者",
+            "Forks": "复刻",
             // 与用户名同名仓库 编辑 README
             "is a special repository.": "是一个特殊的仓库。",
             "Its": "它的",
