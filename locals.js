@@ -9918,6 +9918,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
         [/Successfully discarded changes and synchronized branch to match upstream ([^ ]+)\./, "成功丢弃更改，并将分支与上游 $1 保持同步。"],
         ...I18N["zh-CN"]["repository-public"]["regexp"],
         [/^(\d+) characters? remaining$/, "还可输入 $1 个字符"],
+        [/^Subscribe to events for ([^\s/]+\/[^\s/]+)$/, "订阅 $1 的事件"],
         [/More than (\d+) unreleased commits since ([^ ]+)/, "$2 以来有超过 $1 个未发布的提交"],
         [/(\d+) unreleased commits since ([^ ]+)/, "$2 以来有 $1 个未发布的提交"],
         [/commits by (.+)/, "由 $1 提交"],
