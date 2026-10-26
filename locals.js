@@ -9762,6 +9762,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
 
             // 仓库描述编辑 对话框
             "Edit repository details": "编辑仓库简述",
+                "characters remaining": "个剩余字符",
             "Description": "描述",
             "Short description of this repository": "简短的描述下您的仓库",
             "Website": "网址",
