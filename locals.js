@@ -9411,6 +9411,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
                 "Add this repository to one or more lists": "添加此仓库到 1 或多个列表",
 
                 "Star lists": "标星列表",
+                    "Tip: type : to add emoji to the name or description.": "提示：输入 : 可在名称或描述中添加表情符号。",
                     "You can enter up to": "最多可输入",
                     "Items will be filtered as you type": "输入时将自动筛选项目",
                     "No lists yet": "尚无清单",
