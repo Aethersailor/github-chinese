@@ -9719,6 +9719,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
             "No description, website, or topics provided.": "未提供描述、网站或主题。",
             "Readme": "自述文件",
             "README": "自述文件",
+            "Repository files navigation": "仓库文件导航",
             "Contributing": "贡献指南",
             "View license": "查看许可证",
                 "GPL-3.0 license": "GPL-3.0 许可证",
