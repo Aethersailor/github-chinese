@@ -9490,6 +9490,9 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
             // 代码 下拉菜单
                 "Local": "本地",
                     "Clone": "克隆",
+                        "Clone with HTTPS url": "HTTPS 克隆地址",
+                        "Clone with SSH url": "SSH 克隆地址",
+                        "Clone with GitHub CLI command": "GitHub CLI 克隆命令",
                         // HTTPS
                         "Clone using the web URL.": "使用 Web URL 克隆。",
                         // SSH
