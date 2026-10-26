@@ -9727,6 +9727,7 @@ I18N["zh-CN"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
                 "LGPL-3.0 license": "LGPL-3.0 许可证",
                 "MIT license": "MIT 许可证",
                 "Apache-2.0 license": "Apache-2.0 许可证",
+                "CC-BY-SA-4.0 license": "CC-BY-SA-4.0 许可证",
                 "OFL-1.1 license": "OFL-1.1 许可证",
                 "0BSD license": "0BSD 许可证",
                 "BSD-3-Clause license": "BSD-3-Clause 许可证",
