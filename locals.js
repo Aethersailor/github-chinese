@@ -54,7 +54,7 @@ I18N.conf = {
     rePagePathOrg: /^\/[^\/]+\/[^\/]+\/(repositories\/new|repositories|sponsoring|discussions|projects|packages|teams|new-team|people|outside-collaborators|pending_collaborators|dashboard|billing_managers\/new|invitations?|settings\/(profile|billing|roles|member_privileges|teams|import-export|blocked_users|interaction_limits|code_review_limits|moderators|repository-defaults|rules|codespaces|copilot|actions|hooks|discussions|packages|pages|projects|security_analysis|security|dependabot_rules|domains|secrets|variables|oauth_application_policy|installations|personal-access-token|reminders|sponsors-log|audit-log|deleted_repositories|applications\/new|applications|apps\/new|apps|publisher|policies\/repositories|custom-properties|issue-fields|sandboxes)|topics|domain\/new|audit-log\/event_settings|billing\/(history|plans)|policies\/applications)|^\/[^\/]+\/(enterprise_plan|sponsoring)/,
 
     // 特定页面，启用`字符数据`监测
-    characterDataPage: ['repository/new', 'repository/edit', 'new', 'new/import', 'orgs/repositories/new', 'repository', 'repository/blob', 'repository/pull', 'marketplace', 'homepage', 'repository/issues', 'repository/commit', 'repository/actions', 'repository/pulls', 'copilot', 'spark', 'repository/settings/rules', 'pulls', 'settings/billing', 'settings/blocked_users'],
+    characterDataPage: ['repository/new', 'repository/edit', 'new', 'new/import', 'orgs/repositories/new', 'repository', 'repository/blob', 'repository/pull', 'marketplace', 'homepage', 'dashboard', 'repository/issues', 'repository/commit', 'repository/actions', 'repository/pulls', 'copilot', 'spark', 'repository/settings/rules', 'issues', 'pulls', 'repos', 'settings/billing', 'settings/blocked_users'],
 
     // 特定页面，忽略突变元素规则
     ignoreMutationSelectorPage: {
@@ -977,6 +977,8 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
                     "Organization administrators can apply custom instructions across all Copilot chats in github.com.": "组织管理员可以在 GitHub.com 的所有 Copilot 聊天中应用自定义指令。",
                 "New Pull Requests Dashboard": "新版拉取请求仪表板",
                     "The updated pull requests overview (github.com/pulls) introduces saved views, smart default filters, and enhanced search, making it easier to organize and find pull requests across your repos, teams, and orgs. Once enabled, please refresh to see the changes.": "更新后的拉取请求概览（github.com/pulls）引入了保存的视图、智能默认过滤器和增强的搜索功能，使您更轻松地组织并查找仓库、团队和组织中的拉取请求。启用后，请刷新以查看更改。",
+                "New Repository Pull Requests Dashboard": "新版仓库拉取请求仪表板",
+                    "The updated repository pull requests page unifies the experience with the new sidebar view and enhanced search, making it easier to organize and find pull requests.": "更新后的仓库拉取请求页面通过新版侧栏视图和增强的搜索功能统一了使用体验，使您更轻松地整理和查找拉取请求。",
                 "New Dashboard Experience": "新仪表板体验",
                     "The updated home dashboard introduces enhanced agent workflows, making it easier to create and manage agent sessions, issues, and pull requests directly from your personalized dashboard. Once enabled, please refresh to see the changes.": "更新后的主页仪表板引入了增强的智能体工作流，使您可以更轻松地直接从个性化仪表板创建和管理智能体会话、议题和拉取请求。启用后，请刷新以查看更改。",
                 "Rich Jupyter Notebook Diffs": "Jupyter Notebook 的丰富差异视图",
@@ -1016,6 +1018,10 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
             "Edit status": "编辑状态",
             "What's happening": "发生了什么",
             "What's happening?": "发生了什么？",
+            "You can enter up to": "最多可输入",
+            "Select an emoji": "选择表情符号",
+            "Select an Emoji": "选择表情符号",
+            "Clear emoji": "清除表情符号",
 
             "Suggestions": "建议",
                 "On vacation": "在度假",
@@ -1036,6 +1042,12 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
                 "after today": "今日之后",
                 "after this week": "本周之后",
                 "after a month": "本月之后",
+                "In 30 minutes": "30 分钟后",
+                "In 1 hour": "1 小时后",
+                "In 4 hours": "4 小时后",
+                "After today": "今天结束后",
+                "After this week": "本周结束后",
+                "After a month": "1 个月后",
                 "How long until this status will automatically clear.": "多久后状态自动清除。",
                 "Your status will be cleared after the selected time.": "在所选时间后，您的状态将被清除。",
             "Visible to": "可见",
@@ -1044,6 +1056,61 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
                     "Scope status visibility to a single organization.": "将状态可视范围扩大到单个组织。",
             "Filter emoji": "筛选表情符号",
                 "Search results": "筛选结果",
+
+        // 保存视图图标选择器
+        "Change icon": "更改图标",
+            "Gray color": "灰色",
+            "Blue color": "蓝色",
+            "Green color": "绿色",
+            "Orange color": "橙色",
+            "Red color": "红色",
+            "Pink color": "粉色",
+            "Purple color": "紫色",
+            "People icon": "人员图标",
+            "Smiley icon": "笑脸图标",
+            "Mention icon": "提及图标",
+            "Clock icon": "时钟图标",
+            "Git pull request icon": "拉取请求图标",
+            "Zap icon": "闪电图标",
+            "Issue opened icon": "打开的议题图标",
+            "Person icon": "个人图标",
+            "Comment discussion icon": "讨论图标",
+            "Organization icon": "组织图标",
+            "Briefcase icon": "公文包图标",
+            "File diff icon": "文件差异图标",
+            "Code review icon": "代码审查图标",
+            "Codescan icon": "代码扫描图标",
+            "Terminal icon": "终端图标",
+            "Tools icon": "工具图标",
+            "Beaker icon": "烧杯图标",
+            "Alert icon": "警告图标",
+            "Eye icon": "眼睛图标",
+            "Telescope icon": "望远镜图标",
+            "Bookmark icon": "书签图标",
+            "Calendar icon": "日历图标",
+            "Meter icon": "仪表图标",
+            "Moon icon": "月亮图标",
+            "Sun icon": "太阳图标",
+            "Flame icon": "火焰图标",
+            "Bug icon": "缺陷图标",
+            "North star icon": "北极星图标",
+            "Rocket icon": "火箭图标",
+            "Squirrel icon": "松鼠图标",
+            "Hubot icon": "Hubot 图标",
+            "Dependabot icon": "Dependabot 图标",
+            "Repo icon": "仓库图标",
+            "Repo locked icon": "加锁仓库图标",
+            "Link icon": "链接图标",
+            "Repo forked icon": "复刻仓库图标",
+            "Repo template icon": "模板仓库图标",
+            "Archive icon": "归档图标",
+            "Home icon": "主页图标",
+            "Inbox icon": "收件箱图标",
+            "Gear icon": "设置图标",
+            "Copilot icon": "Copilot 图标",
+            "Globe icon": "地球图标",
+            "Comment icon": "评论图标",
+            "Apply": "应用",
 
         // 底部条
             "Terms": "服务条款",
@@ -1663,6 +1730,8 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
                 "Repositories…": "仓库…",
                     "Select a repository": "选择仓库",
                     "Select repositories": "选择仓库",
+                    "Items will be filtered as you type": "输入时将自动筛选项目",
+                    "Select folders and files in": "选择以下仓库中的文件夹和文件：",
                         "Choose repositories to chat about.": "选择以聊天",
                         "Choose a repository to chat about.": "选择以聊天",
                 "Remove topic": "移除主题",
@@ -1709,6 +1778,9 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
             "View token usage": "查看词元消耗",
                 "Included credits": "包含额度",
                     "Learn more about Included credits": "了解有关包含额度的更多信息",
+                    "AI credits included with your plan, reset monthly. Enable additional usage to continue with pay-as-you-go credits once you run out of your included usage.": "套餐内包含的 AI 额度，每月重置。启用额外用量后，套餐内用量耗尽时可继续使用按量付费额度。",
+                    "Included credits. AI credits included with your plan, reset monthly. Enable additional usage to continue with pay-as-you-go credits once you run out of your included usage.": "包含额度。套餐内包含的 AI 额度，每月重置。启用额外用量后，套餐内用量耗尽时可继续使用按量付费额度。",
+                "Resets": "重置于",
                 "Refresh for latest usage": "刷新以获取最新用量",
             // 响应状态
                 "Copilot is responding…": "Copilot 响应中…",
@@ -1840,6 +1912,8 @@ I18N["zh-CN"]["public"] = { // 公共区域翻译
     },
     "regexp": [ // 正则翻译
         [/^Settings: ([^\s/]+\/[^\s/]+)$/, "设置：$1"],
+        [/^([\d,]+) repositor(?:y|ies) found$/, "找到 $1 个仓库"],
+        [/^(\d+) characters? remaining$/, "还可输入 $1 个字符"],
         // Copilot 窗口
         [/Chatting about ([^ ]+)/, "关于 $1 的对话"],
         [/Chatting with (\d+) attachments?/, "附加 $1 个附件"],
@@ -2175,7 +2249,12 @@ I18N["zh-CN"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
             "First, create a new draft issue. Then ask for additional information to fill out the issue.":"首先，创建一个新的议题草案。然后，要求提供更多信息来完善议题。",
             "First, create an issue with sub issues. Then ask for additional information to fill out these issues.":"首先，创建一个包含子议题的议题。然后，要求提供更多信息来完善这些子议题。",
         "Write code": "编写代码",
+        "Debug": "调试",
         "Models": "模型",
+            "Model:": "模型：",
+            "Fast and cost-efficient": "快速且经济高效",
+            "Versatile and highly intelligent": "用途广泛且智能出众",
+            "Most powerful at complex tasks": "处理复杂任务的能力最强",
             "Create a profile README":"个人资料",
             "Generate a simple calculator":"简易计算器",
             "Make a Pong game":"乒乓球游戏",
@@ -2206,7 +2285,10 @@ I18N["zh-CN"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
         "Agent sessions to include": "智能体任务包含",
         "View all": "查看全部",
         "Number of results": "结果数量",
-        "Maximum age of results": "结果最大年龄",
+        "Maximum age of results": "结果时间范围",
+            "1 month": "1 个月",
+            "3 months": "3 个月",
+            "1 year": "1 年",
         "No maximum": "无限制",
         "Pull request options": "拉取请求选项",
         "Pull requests to include": "拉取请求包含",
@@ -2219,6 +2301,7 @@ I18N["zh-CN"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
             "Assigned to me": "分配给我",
             "Involves me": "涉及我",
         "Open in Copilot Chat": "在 Copilot Chat 中打开",
+        "comments": "评论",
         "Assign to Copilot": "分配给 Copilot",
         "uses AI. Check for mistakes.": "使用 AI。请检查错误。",
 
@@ -2228,6 +2311,14 @@ I18N["zh-CN"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
 
         "Try the new experience": "尝试新版",
         "Try the new dashboard experience": "试用新仪表板",
+        "Switch to classic dashboard": "切换到经典仪表板",
+        "Give dashboard feedback": "提供仪表板反馈",
+            "How satisfied are you with this dashboard?": "您对这个仪表板的满意程度如何？",
+            "Very dissatisfied": "非常不满意",
+            "Dissatisfied": "不满意",
+            "Satisfied": "满意",
+            "Very satisfied": "非常满意",
+            "What can we improve?": "我们可以改进哪些方面？",
         "Switch back": "切回旧版",
 
         // 新手帮助
@@ -2539,6 +2630,7 @@ I18N["zh-CN"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
     },
     "regexp": [ // 正则翻译
         [/(\d+) pull requests/, "$1 个拉取请求"],
+        [/^([\d,]+) repositor(?:y|ies) found$/, "找到 $1 个仓库"],
         [/added (\d+) repositor(y|ies) to/, "添加 $1 个仓库到"],
         [/, and (\d+) more/, "，以及其他 $1 个组织"], // 用户 浮动信息卡
         [/(\d+) repositor(y|ies)/, "$1 个仓库"], // 组织  浮动信息卡
@@ -22024,6 +22116,16 @@ I18N["zh-CN"]["issues"] = { // 议题页面
 
         "Pull Requests": "拉取请求", // pulls
 
+        "Back to templates": "返回模板",
+        "Create new": "新建",
+        "Type": "类型",
+        "result": "个结果",
+        "results": "个结果",
+
+        "View options": "视图选项",
+            "Set as default view": "设为默认视图",
+            "Default to this view when visiting": "访问以下页面时默认打开此视图：",
+
         "Assigned to me": "分配给您",
         "Created by me": "由您创建",
 
@@ -22386,6 +22488,9 @@ I18N["zh-CN"]["issues"] = { // 议题页面
         [/Are you sure you want to delete view (.*)\?/, "您确定要删除视图 $1 吗？"],
         [/Filter contains (\d+) issues?:/, "过滤器包含 $1 个问题："]
     ],
+    "selector": [ // 元素筛选器规则
+        ['footer a[href="https://www.githubstatus.com/"]', "状态监测"],
+    ],
     "title": {
         "static": {
             // issues
@@ -22467,9 +22572,11 @@ I18N["zh-CN"]["pulls"] = { // 拉取请求页面
 
         "Authored by me": "由我创建",
         "Involves me": "涉及我",
+        "Failing checks": "检查失败",
 
         // 收件箱右上角
             "Select repositories": "选择仓库",
+                "Filter repositories": "筛选仓库",
                 "Select all": "全选",
                 "Select": "选择",
                 "Loading repositories...": "加载仓库中...",
@@ -22555,11 +22662,26 @@ I18N["zh-CN"]["repos"] = {
 
         // 搜索栏
             "Clear filter": "清除筛选",
+            "Visibility": "可见性",
+                "Exclude visibility": "排除可见性",
+                "Internal": "内部",
+            "Exclude fork": "排除复刻",
+            "Mirror": "镜像",
+                "Exclude mirror": "排除镜像",
+            "Language": "代码语言",
+                "Exclude language": "排除代码语言",
+            "License": "许可证",
+                "Exclude license": "排除许可证",
+            "Exclude": "排除",
+            "True": "是",
+            "False": "否",
             "Comfortable display density": "舒适视图",
             "Compact display density": "紧凑视图",
 
         // 筛选框
             "Relevance": "相关性",
+            "Sort by": "排序方式",
+            "Order": "顺序",
             "Last pushed": "最后推送",
             "Name": "名称",
 
@@ -22568,6 +22690,10 @@ I18N["zh-CN"]["repos"] = {
 
         "Updated": "更新于",
         "Collapse sidebar": "折叠侧边栏",
+        "Expand sidebar": "展开侧边栏",
+        "ProTip!": "专业提示！",
+        "Using a comma within certain filters will aggregate the results. For example:": "在某些筛选条件中使用逗号，可以合并查询结果。例如：",
+        "will show all repositories that have either Go or Ruby as their primary language.": "将显示主要语言为 Go 或 Ruby 的所有仓库。",
     },
     "regexp": [
         [/(\d+) repositor(y|ies)/, "$1 个仓库"],
@@ -22991,6 +23117,10 @@ I18N["zh-CN"]["discussions"] = {
         // https://github.com/discussions/commented
     },
     "regexp": [ // 正则翻译
+        [/^(.+ · #\d+) was created by ([^\s]+) (.+)$/, function (all, discussion, author, date) {
+            const translatedDate = I18N["zh-CN"]["public"]["time-regexp"].reduce((text, [pattern, replacement]) => text.replace(pattern, replacement), date);
+            return `${discussion} 由 ${author} 创建于 ${translatedDate}`;
+        }],
     ],
     "title": {
         "static": {
@@ -24011,6 +24141,11 @@ I18N["zh-CN"]["account/upgrade"] = { // 账户
 
 I18N["zh-CN"]["marketplace"] = { // GitHub 市场
     "static": { // 静态翻译
+        "Search Marketplace": "搜索市场",
+        "Listing type": "显示类型",
+        "Create extension": "创建扩展",
+        "Collapse sidebar": "折叠侧边栏",
+        "Expand sidebar": "展开侧边栏",
 
         // GitHub 市场主页及相关type页 https://github.com/marketplace
 			"Enhance your workflow with extensions": "增强您的工作流程",
@@ -29345,6 +29480,7 @@ I18N["zh-CN"]["copilot"] = {
             "Close conversations": "关闭侧边栏",
             "Open conversations": "打开侧边栏",
             "New chat": "新聊天",
+            "Condense sidebar": "收窄侧边栏",
             "Collapse": "折叠",
             "Expand sidebar": "展开侧边栏",
 
@@ -29374,8 +29510,18 @@ I18N["zh-CN"]["copilot"] = {
 
         // 中间
             "Ask": "询问",
+            "Debug": "调试",
+            "Optimized for:": "优化方向：",
+                "Efficiency": "效率",
+                "Prioritizes speed and efficiency": "优先考虑速度和效率",
+                "Balance": "均衡",
+                "Balances speed and intelligence": "兼顾速度和智能",
+                "Intelligence": "智能",
+                "Prioritizes intelligence": "优先考虑智能",
             // 模型选择窗
                 "Models": "模型",
+                "Model:": "模型：",
+                "to access more models and higher limits.": "来获得更多模型和更高限制。",
                     "Fast and cost-efficient": "快速、经济高效",
                     "Versatile and highly intelligent": "多功能、高智能",
                     "Most powerful at complex tasks": "执行复杂任务",
@@ -29602,6 +29748,7 @@ I18N["zh-CN"]["copilot"] = {
             "of the world’s leading AI developer tool.": "。",
 
         "Spaces": "空间",
+        "Search spaces": "搜索空间",
 
         "Set context once. Chat again and again": "一次设置上下文，反复聊天。",
             "Create and share a custom Copilot experience using a collection of GitHub repositories, files, and other content.": "使用一组 GitHub 仓库、文件和其他内容创建并分享定制的 Copilot 体验。",
@@ -29693,6 +29840,9 @@ I18N["zh-CN"]["copilot"] = {
                 "View all attachments": "查看所有附件",
 
         // 智能体 https://github.com/copilot/agents
+            "Do more with Copilot": "让 Copilot 助您完成更多工作",
+            "Make Copilot a full development partner in your GitHub workflow. Upgrade to unlock more powerful tools, skills, and MCP on the web and on mobile, plus more credits to use wherever you work.": "让 Copilot 成为您 GitHub 工作流中的全方位开发伙伴。升级后，可在网页和移动端使用更强大的工具、技能和 MCP，并获得更多可随处使用的额度。",
+            "Upgrade to Copilot Pro": "升级到 Copilot Pro",
             "Copilot coding agent now uses fewer premium requests!": "Copilot 编程智能体现在使用更少的高级请求！",
                 "From now on, each session uses just one premium request.": "从现在起，每个会话只会使用一次高级请求。",
 
@@ -30388,11 +30538,13 @@ I18N["zh-CN"]["mcp"] = {
             "Servers and tools from the community that connect models to files, APIs, databases, and more.": "来自社区的服务器和工具，可以将模型连接到文件、API、数据库等。",
 
         "Search MCPs": "搜索 MCP",
+        "Search MCP registry": "搜索 MCP 服务器",
 
         "All MCP servers": "所有 MCP 服务器",
             "Install": "安装",
                 "Install in VS Code": "安装到 VS Code",
                 "Install in VS Code Insiders": "安装到 VS Code 测试版",
+                "Install in GitHub Copilot app": "安装到 GitHub Copilot 应用",
 
             "By": "作者",
 
