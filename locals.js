@@ -11818,6 +11818,7 @@ I18N["zh-CN"]["repository/pull"] = { // 仓库 - 某个拉取请求页面
                 "Show all checks": "显示所有检查",
                 "Hide all checks": "隐藏所有检查",
                 "Details": "细节",
+                "Explain error": "解释错误",
                 "Required": "必须",
                 "Checks settings": "检查设置",
                     "Group by status": "按状态分组",
