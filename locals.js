@@ -11503,6 +11503,7 @@ I18N["zh-CN"]["repository/pull"] = { // 仓库 - 某个拉取请求页面
 
                 "Local": "本地",
                     "Checkout with GitHub CLI": "使用 GitHub CLI 检出",
+                    "Checkout with GitHub CLI command": "使用 GitHub CLI 检出的命令",
                     "Work fast with our official CLI.": "使用我们的官方 CLI 快速工作。",
                     "Checkout with GitHub Desktop": "使用 GitHub Desktop 检出",
                         "Launching GitHub Desktop": "GitHub Desktop 启动中",
