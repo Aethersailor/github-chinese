@@ -11506,6 +11506,7 @@ I18N["zh-CN"]["repository/pull"] = { // 仓库 - 某个拉取请求页面
                     "Checkout with GitHub CLI command": "使用 GitHub CLI 检出的命令",
                     "Work fast with our official CLI.": "使用我们的官方 CLI 快速工作。",
                     "Open in GitHub Copilot app": "在 GitHub Copilot 应用中打开",
+                    "Loading GitHub Desktop checkout...": "正在加载 GitHub Desktop 检出选项…",
                     "Checkout with GitHub Desktop": "使用 GitHub Desktop 检出",
                         "Launching GitHub Desktop": "GitHub Desktop 启动中",
                         "If nothing happens,": "如果没有响应",
