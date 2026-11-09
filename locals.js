@@ -9016,6 +9016,7 @@ I18N["zh-CN"]["repository-public"] = { // 仓库 - 公共部分
         // 3 skipped
         [/(\d+) skipped/, "$1 个跳过"],
         [/Failing after (\d+)s/, "在 $1 秒后失败"],
+        [/^Failing after (\d+)m$/, "在 $1 分钟后失败"],
         [/(\d+) in progress check/, "$1 个正在运行的检查"],
         // [/ and /, " 和 "],
         [/, and (\d+) more/, "，以及其他 $1 个组织"], // 用户 浮动信息卡
